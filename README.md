@@ -93,11 +93,11 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ### 🛠 **Certificações Fundamentais**
 
-### AWS Certified Cloud Practitioner (CLF-C01)
+#### AWS Certified Cloud Practitioner (CLF-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
 
-### AWS Certified AI Practitioner
+#### AWS Certified AI Practitioner
 - [Guia do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
 - [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
