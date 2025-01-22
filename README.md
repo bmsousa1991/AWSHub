@@ -74,7 +74,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 26  | Amazon ElastiCache               | 📖 [elasticache](https://docs.aws.amazon.com/elasticache) | ▶️ [Assistir](https://youtu.be/b-dMZAit06o) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
 | 27  | Amazon DocumentDB                | 📖 [documentdb](https://docs.aws.amazon.com/documentdb) | ▶️ [Assistir](https://youtu.be/tAhV3suqSMo) | ❔ [documentdb/faqs](https://aws.amazon.com/documentdb/faqs/)|
 | 28  | AWS Database Migration Service   | 📖 [dms](https://docs.aws.amazon.com/dms) | ▶️ [Assistir](https://youtu.be/xkXzD0V1UNY) | ❔ [dms/faqs](https://aws.amazon.com/dms/faqs/)|
-| 29  | Amazon Keyspaces (for Apache Cassandra) | 📖 [keyspaces](https://docs.aws.amazon.com/keyspaces) | ▶️ [Assistir](https://youtu.be/SvEnPiWuqjE) | ❔ [keyspaces/faqs](https://aws.amazon.com/keyspaces/faqs/)|
+| 29  | Amazon Keyspaces                 | 📖 [keyspaces](https://docs.aws.amazon.com/keyspaces) | ▶️ [Assistir](https://youtu.be/SvEnPiWuqjE) | ❔ [keyspaces/faqs](https://aws.amazon.com/keyspaces/faqs/)|
 | 30  | Amazon QLDB                      | 📖 [qldb](https://docs.aws.amazon.com/qldb) | ▶️ [Assistir](https://youtu.be/JybHaHSmF9Y) | ❔ [qldb/faqs](https://aws.amazon.com/qldb/faqs/)|
 
 ### Redes e CDN
