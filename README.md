@@ -30,7 +30,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
   - Por exemplo: [Introdução ao Amazon Aurora](https://youtu.be/FzxqIdIZ9wc)  
     ![aurora_overview](./assets/aurora_overview.png)
 
-# Tabela Completa de Recursos de Aprendizado de Serviços AWS
+## Tabela Completa de Recursos de Aprendizado de Serviços AWS
 
 | ID  | Nome do Serviço        | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|------------------------|------------------|------------|--------------------------|
