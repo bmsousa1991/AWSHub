@@ -18,7 +18,6 @@
 - **Console de Gerenciamento AWS:** [**Explore aqui**](https://aws.amazon.com/console/)
 
 
-
 ## Recursos de Aprendizado de Serviços AWS 📘
 
 Esta seção fornece links para documentação detalhada, vídeos introdutórios e FAQs dos serviços populares da AWS.
@@ -84,13 +83,11 @@ E **mais serviços chegando...⏩** você pode adicionar este repositório aos s
 
 Prepare-se gratuitamente para os exames de certificação AWS com os materiais oficiais e guias detalhados. Abaixo, você encontra links diretos para os guias de exame e questões de exemplo de diversas certificações AWS.
 
----
 
 ### 🌟 **Guia Geral de Preparação**
 - **Portal de Preparação para Certificação AWS**: [Acesse aqui](https://aws.amazon.com/certification/certification-prep/)
 
 ![aws-certification](./assets/aws-certification.png)
----
 
 ### **Certificações Fundamentais**
 
@@ -102,7 +99,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [Guia do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
 - [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
----
 
 ### **Certificações Associate**
 
@@ -126,7 +122,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-machine-learning-engineer-associate/AWS-Certified-Machine-Learning-Engineer-Associate_Exam-Guide.pdf)
 - [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
----
 
 ### **Certificações Profissionais**
 
@@ -138,7 +133,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
 
----
 
 ### **Certificações Specialty**
 
@@ -154,10 +148,10 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Sample-Questions.pdf)
 
----
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
 
+---
 
 ### Cursos
 
