@@ -27,9 +27,10 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 - **FAQs da AWS:** Perguntas frequentes sobre os serviços AWS
 - **Introdução (YouTube):** Vídeos curtos (~2min) com animações, música e diagramas  
   - Por exemplo: [Introdução ao Amazon Aurora](https://youtu.be/FzxqIdIZ9wc)  
+
     ![aurora_overview](./assets/aurora_overview.png)
 
-## Tabela Completa de Recursos de Aprendizado de Serviços AWS
+Tabela Completa de Recursos de Aprendizado de Serviços AWS
 
 | ID  | Nome do Serviço        | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|------------------------|------------------|------------|--------------------------|
