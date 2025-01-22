@@ -44,8 +44,8 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 6   | AWS Fargate                   | 📖 [fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html) | ▶️ [Assistir](https://youtu.be/4CHu1ErN51o) | ❔ [fargate/faqs](https://aws.amazon.com/fargate/faqs/)|
 | 7   | Amazon EKS                    | 📖 [eks](https://docs.aws.amazon.com/eks) | ▶️ [Assistir](https://youtu.be/XeRgIo9XM5w) | ❔ [eks/faqs](https://aws.amazon.com/eks/faqs/)|
 | 8   | Amazon ECS                    | 📖 [ecs](https://docs.aws.amazon.com/ecs) | ▶️ [Assistir](https://youtu.be/FnFvpIsBrog) | ❔ [ecs/faqs](https://aws.amazon.com/ecs/faqs/)|
-| 9   | Amazon EMR                    | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/WQFoYfL8Gjo) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
-| 10  | Amazon Batch                  | 📖 [batch](https://docs.aws.amazon.com/batch) | ▶️ [Assistir](https://youtu.be/m80hFZJpvgU) | ❔ [batch/faqs](https://aws.amazon.com/batch/faqs/)|
+| 9   | Amazon EMR                    | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/Xw_T-hlCrBw) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
+| 10  | Amazon Batch                  | 📖 [batch](https://docs.aws.amazon.com/batch) | ▶️ [Assistir](https://youtu.be/j_iI1DzSi5g) | ❔ [batch/faqs](https://aws.amazon.com/batch/faqs/)|
 
 ### Armazenamento
 
