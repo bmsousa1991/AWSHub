@@ -36,8 +36,8 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------|------------------|------------|--------------------------|
-| 1   | Amazon EC2                    | 📖 [ec2](https://docs.aws.amazon.com/ec2) | ▶️ [Assistir](https://youtu.be/u99tNt3TZf8) | ❔ [ec2/faqs](https://aws.amazon.com/ec2/faqs/)|
-| 2   | Amazon Lightsail              | 📖 [lightsail](https://docs.aws.amazon.com/lightsail) | ▶️ [Assistir](https://youtu.be/yIkYN9vxzwM) | ❔ [lightsail/faqs](https://aws.amazon.com/lightsail/faqs/)|
+| 1   | Amazon EC2                    | 📖 [ec2](https://docs.aws.amazon.com/ec2) | ▶️ [Assistir](https://youtu.be/TsRBftzZsQo) | ❔ [ec2/faqs](https://aws.amazon.com/ec2/faqs/)|
+| 2   | Amazon Lightsail              | 📖 [lightsail](https://docs.aws.amazon.com/lightsail) | ▶️ [Assistir](https://youtu.be/wzhTAwRbdXw) | ❔ [lightsail/faqs](https://aws.amazon.com/lightsail/faq/)|
 | 3   | AWS Lambda                    | 📖 [lambda](https://docs.aws.amazon.com/lambda) | ▶️ [Assistir](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
 | 4   | Amazon Elastic Beanstalk      | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk) | ▶️ [Assistir](https://youtu.be/zWGFqMuEHdw) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/)|
 | 5   | Amazon EC2 Auto Scaling       | 📖 [autoscaling](https://docs.aws.amazon.com/autoscaling) | ▶️ [Assistir](https://youtu.be/W6A3B3A_Xf8) | ❔ [autoscaling/faqs](https://aws.amazon.com/autoscaling/faqs/)|
