@@ -80,25 +80,26 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
 
-# 📚 Preparação Gratuita para o Exame de Certificação AWS
+## 📚 Preparação Gratuita para o Exame de Certificação AWS
 
 Prepare-se gratuitamente para os exames de certificação AWS com os materiais oficiais e guias detalhados. Abaixo, você encontra links diretos para os guias de exame e questões de exemplo de diversas certificações AWS.
 
 ---
 
-## 🌟 **Guia Geral de Preparação**
+### 🌟 **Guia Geral de Preparação**
 - **Portal de Preparação para Certificação AWS**: [Acesse aqui](https://aws.amazon.com/certification/certification-prep/)
 
 ---
 
-## 🛠 **Certificações Fundamentais**
+### 🛠 **Certificações Fundamentais**
 
 ### AWS Certified Cloud Practitioner (CLF-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
 
 ### AWS Certified AI Practitioner
-- *Ainda não há links oficiais disponíveis.*
+- [Guia do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
+- [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
 ---
 
