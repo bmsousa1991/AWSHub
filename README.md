@@ -94,9 +94,6 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 
 
-
-
-
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
 
 ## Preparação Gratuita para o Exame de Certificação AWS 📚
