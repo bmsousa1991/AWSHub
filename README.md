@@ -104,25 +104,27 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ---
 
-## 🔧 **Certificações Associate**
+### 🔧 **Certificações Associate**
 
-### AWS Certified SysOps Administrator (SOA-C02)
+#### AWS Certified SysOps Administrator (SOA-C02)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
 
-### AWS Certified Developer (DVA-C01)
+#### AWS Certified Developer (DVA-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-dev-assoc/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-dev-assoc/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
 
-### AWS Certified Solutions Architect - Associate (SAA-C03)
+#### AWS Certified Solutions Architect - Associate (SAA-C03)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
-### AWS Certified Data Engineer
-- *Ainda não há links oficiais disponíveis.*
+#### AWS Certified Data Engineer
+- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf)
+- [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
-### AWS Certified Machine Learning Engineer
-- *Ainda não há links oficiais disponíveis.*
+#### AWS Certified Machine Learning Engineer
+- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-machine-learning-engineer-associate/AWS-Certified-Machine-Learning-Engineer-Associate_Exam-Guide.pdf)
+- [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
 ---
 
