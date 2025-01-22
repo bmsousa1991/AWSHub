@@ -1,7 +1,7 @@
 <h1 align="center">AWS Hub ☁️</h1>
 
 <p align="center">Bem-vindo ao repositório AWS Hub 👋</p>
-<p align="center">Seja você um novo membro da comunidade AWS ou um desenvolvedor/engenheiro de nuvem em busca de um hub centralizado de documentos sobre AWS, este repositório irá ajudá-lo. Considere este repositório como seu marcador para todos os recursos essenciais da AWS, incluindo materiais de certificação, documentação de serviços AWS e insights de arquitetura AWS. 🔥</p>
+<p align="center">Seja você um novo membro da comunidade AWS, um desenvolvedor ou engenheiro de nuvem em busca de um hub centralizado de recursos sobre AWS, este repositório é para você. Ele reúne projetos reais, materiais de certificação, documentação de serviços AWS e insights de arquitetura. Considere este repositório como seu ponto de referência para aprender e aplicar conhecimentos em AWS. 🔥</p>
 
 <p align="center">
 <a href="https://github.com/devopsbrhub/AWSHub/commits/main"><img alt="Último Commit" src="https://img.shields.io/github/last-commit/devopsbrhub/AWSHub/main" /></a>
