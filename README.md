@@ -126,7 +126,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
-| 61  | AWS IAM (Identity and Access Management) | 📖 [iam](https://docs.aws.amazon.com/iam)       | ▶️ [Assistir](https://youtu.be/xyzIAM)     | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/) |
+| 61  | AWS IAM                          | 📖 [iam](https://docs.aws.amazon.com/iam)       | ▶️ [Assistir](https://youtu.be/xyzIAM)     | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/) |
 | 62  | Amazon Cognito                   | 📖 [cognito](https://docs.aws.amazon.com/cognito) | ▶️ [Assistir](https://youtu.be/xyzCognito) | ❔ [cognito/faqs](https://aws.amazon.com/cognito/faqs/) |
 | 63  | AWS KMS                          | 📖 [kms](https://docs.aws.amazon.com/kms)         | ▶️ [Assistir](https://youtu.be/xyzKMS)     | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/) |
 | 64  | AWS Secrets Manager              | 📖 [secretsmanager](https://docs.aws.amazon.com/secretsmanager) | ▶️ [Assistir](https://youtu.be/xyzSecrets) | ❔ [secretsmanager/faqs](https://aws.amazon.com/secretsmanager/faqs/) |
@@ -167,7 +167,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
 | 86  | AWS Migration Hub               | 📖 [migrationhub](https://docs.aws.amazon.com/migrationhub) | ▶️ [Assistir](https://youtu.be/xyzHub)    | ❔ [migrationhub/faqs](https://aws.amazon.com/migrationhub/faqs/) |
-| 87  | AWS Application Discovery Service | 📖 [applicationdiscovery](https://docs.aws.amazon.com/applicationdiscovery) | ▶️ [Assistir](https://youtu.be/xyzApp)  | ❔ [applicationdiscovery/faqs](https://aws.amazon.com/applicationdiscovery/faqs/) |
+| 87  | AWS Application Discovery       | 📖 [applicationdiscovery](https://docs.aws.amazon.com/applicationdiscovery) | ▶️ [Assistir](https://youtu.be/xyzApp)  | ❔ [applicationdiscovery/faqs](https://aws.amazon.com/applicationdiscovery/faqs/) |
 | 88  | AWS Server Migration Service    | 📖 [servermigration](https://docs.aws.amazon.com/servermigration) | ▶️ [Assistir](https://youtu.be/xyzServer) | ❔ [servermigration/faqs](https://aws.amazon.com/servermigration/faqs/) |
 | 89  | AWS Database Migration Service  | 📖 [databasemigration](https://docs.aws.amazon.com/databasemigration) | ▶️ [Assistir](https://youtu.be/xyzDMS)    | ❔ [databasemigration/faqs](https://aws.amazon.com/databasemigration/faqs/) |
 | 90  | AWS Snowball                    | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/xyzSnow)    | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/) |
