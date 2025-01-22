@@ -152,7 +152,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
 
----
 
 ### Cursos
 
