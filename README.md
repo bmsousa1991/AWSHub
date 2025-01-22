@@ -39,7 +39,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 1   | Amazon EC2                    | 📖 [ec2](https://docs.aws.amazon.com/ec2) | ▶️ [Assistir](https://youtu.be/TsRBftzZsQo) | ❔ [ec2/faqs](https://aws.amazon.com/ec2/faqs/)|
 | 2   | Amazon Lightsail              | 📖 [lightsail](https://docs.aws.amazon.com/lightsail) | ▶️ [Assistir](https://youtu.be/wzhTAwRbdXw) | ❔ [lightsail/faqs](https://aws.amazon.com/lightsail/faq/)|
 | 3   | AWS Lambda                    | 📖 [lambda](https://docs.aws.amazon.com/lambda) | ▶️ [Assistir](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
-| 4   | Amazon Elastic Beanstalk      | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk) | ▶️ [Assistir](https://youtu.be/zWGFqMuEHdw) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/)|
+| 4   | Amazon Elastic Beanstalk      | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) | ▶️ [Assistir](https://youtu.be/uiM1xzOX8Qg) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/)|
 | 5   | Amazon EC2 Auto Scaling       | 📖 [autoscaling](https://docs.aws.amazon.com/autoscaling) | ▶️ [Assistir](https://youtu.be/W6A3B3A_Xf8) | ❔ [autoscaling/faqs](https://aws.amazon.com/autoscaling/faqs/)|
 | 6   | AWS Fargate                   | 📖 [fargate](https://docs.aws.amazon.com/fargate) | ▶️ [Assistir](https://youtu.be/zvGPt-2JiD8) | ❔ [fargate/faqs](https://aws.amazon.com/fargate/faqs/)|
 | 7   | Amazon EKS                    | 📖 [eks](https://docs.aws.amazon.com/eks) | ▶️ [Assistir](https://youtu.be/s_n9eAtcnwo) | ❔ [eks/faqs](https://aws.amazon.com/eks/faqs/)|
