@@ -4,9 +4,8 @@
 <p align="center">Seja você um novo membro da comunidade AWS ou um desenvolvedor/engenheiro de nuvem em busca de um hub centralizado de documentos sobre AWS, este repositório irá ajudá-lo. Considere este repositório como seu marcador para todos os recursos essenciais da AWS, incluindo materiais de certificação, documentação de serviços AWS e insights de arquitetura AWS. 🔥</p>
 
 <p align="center">
-<a href="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main"><img alt="último commit" src="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main" /></a>
-<a href="https://github.com/tungbq/AWS-LearningResource/releases"><img alt="release devops-basic" src="https://img.shields.io/github/release/tungbq/AWS-LearningResource.svg" /></a>
-<a href="https://github.com/tungbq/AWS-LearningResource/stargazers"><img alt="Estrelas do repositório no GitHub" src="https://img.shields.io/github/stars/tungbq/AWS-LearningResource"/></a>
+<a href="https://img.shields.io/github/last-commit/devopsbrhub/AWS-LearningResource/main"><img alt="último commit" src="https://img.shields.io/github/last-commit/devopsbrhub/AWS-LearningResource/main" /></a>
+<a href="https://github.com/devopsbrhub/AWS-LearningResource/stargazers"><img alt="Estrelas do repositório no GitHub" src="https://img.shields.io/github/stars/devopsbrhub/AWS-LearningResource"/></a>
 
 </p>
 
