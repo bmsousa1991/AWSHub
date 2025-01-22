@@ -122,6 +122,71 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 59  | Amazon Personalize               | 📖 [personalize](https://docs.aws.amazon.com/personalize) | ▶️ [Assistir](https://youtu.be/kDtj3sVEq60) | ❔ [personalize/faqs](https://aws.amazon.com/personalize/faqs/)|
 | 60  | Amazon Forecast                  | 📖 [forecast](https://docs.aws.amazon.com/forecast) | ▶️ [Assistir](https://youtu.be/P8kVGz43EQk) | ❔ [forecast/faqs](https://aws.amazon.com/forecast/faqs/)|
 
+### Segurança, Identidade e Compliance
+
+| ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
+|-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
+| 61  | AWS IAM (Identity and Access Management) | 📖 [iam](https://docs.aws.amazon.com/iam)       | ▶️ [Assistir](https://youtu.be/xyzIAM)     | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/) |
+| 62  | Amazon Cognito                   | 📖 [cognito](https://docs.aws.amazon.com/cognito) | ▶️ [Assistir](https://youtu.be/xyzCognito) | ❔ [cognito/faqs](https://aws.amazon.com/cognito/faqs/) |
+| 63  | AWS KMS (Key Management Service) | 📖 [kms](https://docs.aws.amazon.com/kms)         | ▶️ [Assistir](https://youtu.be/xyzKMS)     | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/) |
+| 64  | AWS Secrets Manager              | 📖 [secretsmanager](https://docs.aws.amazon.com/secretsmanager) | ▶️ [Assistir](https://youtu.be/xyzSecrets) | ❔ [secretsmanager/faqs](https://aws.amazon.com/secretsmanager/faqs/) |
+| 65  | AWS Shield                       | 📖 [shield](https://docs.aws.amazon.com/shield)   | ▶️ [Assistir](https://youtu.be/xyzShield)  | ❔ [shield/faqs](https://aws.amazon.com/shield/faqs/) |
+| 66  | AWS GuardDuty                    | 📖 [guardduty](https://docs.aws.amazon.com/guardduty) | ▶️ [Assistir](https://youtu.be/xyzGuard)   | ❔ [guardduty/faqs](https://aws.amazon.com/guardduty/faqs/) |
+| 67  | AWS Config                       | 📖 [config](https://docs.aws.amazon.com/config)   | ▶️ [Assistir](https://youtu.be/xyzConfig)  | ❔ [config/faqs](https://aws.amazon.com/config/faqs/) |
+| 68  | AWS CloudTrail                   | 📖 [cloudtrail](https://docs.aws.amazon.com/cloudtrail) | ▶️ [Assistir](https://youtu.be/xyzTrail)   | ❔ [cloudtrail/faqs](https://aws.amazon.com/cloudtrail/faqs/) |
+| 69  | AWS Inspector                    | 📖 [inspector](https://docs.aws.amazon.com/inspector) | ▶️ [Assistir](https://youtu.be/xyzInspect) | ❔ [inspector/faqs](https://aws.amazon.com/inspector/faqs/) |
+| 70  | AWS Security Hub                 | 📖 [securityhub](https://docs.aws.amazon.com/securityhub) | ▶️ [Assistir](https://youtu.be/xyzHub)     | ❔ [securityhub/faqs](https://aws.amazon.com/securityhub/faqs/) |
+
+### Ferramentas de Desenvolvedor e DevOps
+
+| ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
+|-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
+| 71  | AWS CodeCommit                  | 📖 [codecommit](https://docs.aws.amazon.com/codecommit) | ▶️ [Assistir](https://youtu.be/xyzCommit) | ❔ [codecommit/faqs](https://aws.amazon.com/codecommit/faqs/) |
+| 72  | AWS CodeDeploy                  | 📖 [codedeploy](https://docs.aws.amazon.com/codedeploy) | ▶️ [Assistir](https://youtu.be/xyzDeploy) | ❔ [codedeploy/faqs](https://aws.amazon.com/codedeploy/faqs/) |
+| 73  | AWS CodePipeline                | 📖 [codepipeline](https://docs.aws.amazon.com/codepipeline) | ▶️ [Assistir](https://youtu.be/xyzPipe)   | ❔ [codepipeline/faqs](https://aws.amazon.com/codepipeline/faqs/) |
+| 74  | AWS CodeBuild                   | 📖 [codebuild](https://docs.aws.amazon.com/codebuild) | ▶️ [Assistir](https://youtu.be/xyzBuild)   | ❔ [codebuild/faqs](https://aws.amazon.com/codebuild/faqs/) |
+| 75  | AWS Cloud9                      | 📖 [cloud9](https://docs.aws.amazon.com/cloud9)     | ▶️ [Assistir](https://youtu.be/xyzCloud9) | ❔ [cloud9/faqs](https://aws.amazon.com/cloud9/faqs/) |
+| 76  | Amazon CloudWatch               | 📖 [cloudwatch](https://docs.aws.amazon.com/cloudwatch) | ▶️ [Assistir](https://youtu.be/xyzWatch)  | ❔ [cloudwatch/faqs](https://aws.amazon.com/cloudwatch/faqs/) |
+| 77  | AWS X-Ray                       | 📖 [xray](https://docs.aws.amazon.com/xray)         | ▶️ [Assistir](https://youtu.be/xyzXRay)   | ❔ [xray/faqs](https://aws.amazon.com/xray/faqs/) |
+| 78  | AWS Elastic Beanstalk           | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk) | ▶️ [Assistir](https://youtu.be/xyzBean) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/) |
+| 79  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation) | ▶️ [Assistir](https://youtu.be/xyzForm)  | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/) |
+| 80  | AWS OpsWorks                    | 📖 [opsworks](https://docs.aws.amazon.com/opsworks) | ▶️ [Assistir](https://youtu.be/xyzOps)    | ❔ [opsworks/faqs](https://aws.amazon.com/opsworks/faqs/) |
+
+### IoT (Internet of Things)
+
+| ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
+|-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
+| 81  | AWS IoT Core                    | 📖 [iotcore](https://docs.aws.amazon.com/iotcore) | ▶️ [Assistir](https://youtu.be/xyzIoTCore)| ❔ [iotcore/faqs](https://aws.amazon.com/iotcore/faqs/) |
+| 82  | AWS IoT Greengrass              | 📖 [iotgreengrass](https://docs.aws.amazon.com/iotgreengrass) | ▶️ [Assistir](https://youtu.be/xyzGreen) | ❔ [iotgreengrass/faqs](https://aws.amazon.com/iotgreengrass/faqs/) |
+| 83  | AWS IoT Analytics               | 📖 [iotanalytics](https://docs.aws.amazon.com/iotanalytics) | ▶️ [Assistir](https://youtu.be/xyzAnalytics) | ❔ [iotanalytics/faqs](https://aws.amazon.com/iotanalytics/faqs/) |
+| 84  | AWS IoT Device Management       | 📖 [iotdevicemgmt](https://docs.aws.amazon.com/iotdevicemgmt) | ▶️ [Assistir](https://youtu.be/xyzDevice) | ❔ [iotdevicemgmt/faqs](https://aws.amazon.com/iotdevicemgmt/faqs/) |
+| 85  | AWS IoT Events                  | 📖 [iotevents](https://docs.aws.amazon.com/iotevents) | ▶️ [Assistir](https://youtu.be/xyzEvents) | ❔ [iotevents/faqs](https://aws.amazon.com/iotevents/faqs/) |
+
+### Migration e Transferência
+
+| ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
+|-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
+| 86  | AWS Migration Hub               | 📖 [migrationhub](https://docs.aws.amazon.com/migrationhub) | ▶️ [Assistir](https://youtu.be/xyzHub)    | ❔ [migrationhub/faqs](https://aws.amazon.com/migrationhub/faqs/) |
+| 87  | AWS Application Discovery Service | 📖 [applicationdiscovery](https://docs.aws.amazon.com/applicationdiscovery) | ▶️ [Assistir](https://youtu.be/xyzApp)  | ❔ [applicationdiscovery/faqs](https://aws.amazon.com/applicationdiscovery/faqs/) |
+| 88  | AWS Server Migration Service    | 📖 [servermigration](https://docs.aws.amazon.com/servermigration) | ▶️ [Assistir](https://youtu.be/xyzServer) | ❔ [servermigration/faqs](https://aws.amazon.com/servermigration/faqs/) |
+| 89  | AWS Database Migration Service  | 📖 [databasemigration](https://docs.aws.amazon.com/databasemigration) | ▶️ [Assistir](https://youtu.be/xyzDMS)    | ❔ [databasemigration/faqs](https://aws.amazon.com/databasemigration/faqs/) |
+| 90  | AWS Snowball                    | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/xyzSnow)    | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/) |
+| 91  | AWS Transfer for SFTP           | 📖 [transfersftp](https://docs.aws.amazon.com/transfersftp) | ▶️ [Assistir](https://youtu.be/xyzSFTP)   | ❔ [transfersftp/faqs](https://aws.amazon.com/transfersftp/faqs/) |
+| 92  | AWS DataSync                    | 📖 [datasync](https://docs.aws.amazon.com/datasync) | ▶️ [Assistir](https://youtu.be/xyzSync)    | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/) |
+| 93  | AWS Import/Export Snowcone      | 📖 [snowcone](https://docs.aws.amazon.com/snowcone) | ▶️ [Assistir](https://youtu.be/xyzCone)    | ❔ [snowcone/faqs](https://aws.amazon.com/snowcone/faqs/) |
+| 94  | AWS Transfer Family             | 📖 [transferfamily](https://docs.aws.amazon.com/transferfamily) | ▶️ [Assistir](https://youtu.be/xyzFamily) | ❔ [transferfamily/faqs](https://aws.amazon.com/transferfamily/faqs/) |
+
+### Gerenciamento e Governança
+
+| ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
+|-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
+| 95  | AWS Systems Manager             | 📖 [systemsmanager](https://docs.aws.amazon.com/systemsmanager) | ▶️ [Assistir](https://youtu.be/xyzManager) | ❔ [systemsmanager/faqs](https://aws.amazon.com/systemsmanager/faqs/) |
+| 96  | AWS Trusted Advisor             | 📖 [trustedadvisor](https://docs.aws.amazon.com/trustedadvisor) | ▶️ [Assistir](https://youtu.be/xyzAdvisor) | ❔ [trustedadvisor/faqs](https://aws.amazon.com/trustedadvisor/faqs/) |
+| 97  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation) | ▶️ [Assistir](https://youtu.be/xyzCloudForm) | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/) |
+| 98  | AWS Organizations               | 📖 [organizations](https://docs.aws.amazon.com/organizations) | ▶️ [Assistir](https://youtu.be/xyzOrg)     | ❔ [organizations/faqs](https://aws.amazon.com/organizations/faqs/) |
+| 99  | AWS Control Tower               | 📖 [controltower](https://docs.aws.amazon.com/controltower) | ▶️ [Assistir](https://youtu.be/xyzControl) | ❔ [controltower/faqs](https://aws.amazon.com/controltower/faqs/) |
+| 100 | AWS Service Catalog             | 📖 [servicecatalog](https://docs.aws.amazon.com/servicecatalog) | ▶️ [Assistir](https://youtu.be/xyzCatalog) | ❔ [servicecatalog/faqs](https://aws.amazon.com/servicecatalog/faqs/) |
+
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
 
