@@ -80,7 +80,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
 
-## 📚 Preparação Gratuita para o Exame de Certificação AWS
+## Preparação Gratuita para o Exame de Certificação AWS 📚
 
 Prepare-se gratuitamente para os exames de certificação AWS com os materiais oficiais e guias detalhados. Abaixo, você encontra links diretos para os guias de exame e questões de exemplo de diversas certificações AWS.
 
@@ -92,7 +92,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 ![aws-certification](./assets/aws-certification.png)
 ---
 
-### 🛠 **Certificações Fundamentais**
+### **Certificações Fundamentais**
 
 #### AWS Certified Cloud Practitioner (CLF-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
@@ -104,7 +104,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ---
 
-### 🔧 **Certificações Associate**
+### **Certificações Associate**
 
 #### AWS Certified SysOps Administrator (SOA-C02)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
@@ -128,7 +128,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ---
 
-### 🚀 **Certificações Profissionais**
+### **Certificações Profissionais**
 
 #### AWS Certified Solutions Architect - Professional (SAP-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
@@ -140,7 +140,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ---
 
-### 🧑‍🔬 **Certificações Specialty**
+### **Certificações Specialty**
 
 #### AWS Certified Advanced Networking - Specialty (ANS-C00)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Exam-Guide.pdf)
@@ -157,8 +157,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 ---
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
-
-
 
 
 ### Cursos
