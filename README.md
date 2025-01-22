@@ -32,7 +32,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 ## Tabela Completa de Recursos de Aprendizado de Serviços AWS
 
-## Computação
+### Computação
 
 | ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------|------------------|------------|--------------------------|
@@ -47,7 +47,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 9   | Amazon EMR                    | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/WQFoYfL8Gjo) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
 | 10  | Amazon Batch                  | 📖 [batch](https://docs.aws.amazon.com/batch) | ▶️ [Assistir](https://youtu.be/m80hFZJpvgU) | ❔ [batch/faqs](https://aws.amazon.com/batch/faqs/)|
 
-## Armazenamento
+### Armazenamento
 
 | ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------|------------------|------------|--------------------------|
@@ -61,6 +61,38 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 18  | AWS Snowball                  | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/Rs_1P7qQ24I) | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/)|
 | 19  | AWS Storage Gateway           | 📖 [storagegateway](https://docs.aws.amazon.com/storagegateway) | ▶️ [Assistir](https://youtu.be/Nt9fi3neFUo) | ❔ [storagegateway/faqs](https://aws.amazon.com/storagegateway/faqs/)|
 | 20  | Amazon Elastic File System (EFS)| 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/pAH0f6BQPKY) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
+
+### Banco de Dados
+
+| ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
+|-----|----------------------------------|------------------|------------|--------------------------|
+| 21  | Amazon RDS                       | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [Assistir](https://youtu.be/WqlwHs1h20U) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
+| 22  | Amazon DynamoDB                  | 📖 [dynamodb](https://docs.aws.amazon.com/dynamodb) | ▶️ [Assistir](https://youtu.be/8ODc2XKTEqY) | ❔ [dynamodb/faqs](https://aws.amazon.com/dynamodb/faqs/)|
+| 23  | Amazon Aurora                    | 📖 [aurora](https://docs.aws.amazon.com/aurora) | ▶️ [Assistir](https://youtu.be/nBOZ5f6g8ZE) | ❔ [aurora/faqs](https://aws.amazon.com/aurora/faqs/)|
+| 24  | Amazon Redshift                  | 📖 [redshift](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/QdkGcmZCnWo) | ❔ [redshift/faqs](https://aws.amazon.com/redshift/faqs/)|
+| 25  | Amazon Neptune                   | 📖 [neptune](https://docs.aws.amazon.com/neptune) | ▶️ [Assistir](https://youtu.be/t_dGbrE0vAQ) | ❔ [neptune/faqs](https://aws.amazon.com/neptune/faqs/)|
+| 26  | Amazon ElastiCache               | 📖 [elasticache](https://docs.aws.amazon.com/elasticache) | ▶️ [Assistir](https://youtu.be/b-dMZAit06o) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
+| 27  | Amazon DocumentDB                | 📖 [documentdb](https://docs.aws.amazon.com/documentdb) | ▶️ [Assistir](https://youtu.be/tAhV3suqSMo) | ❔ [documentdb/faqs](https://aws.amazon.com/documentdb/faqs/)|
+| 28  | AWS Database Migration Service   | 📖 [dms](https://docs.aws.amazon.com/dms) | ▶️ [Assistir](https://youtu.be/xkXzD0V1UNY) | ❔ [dms/faqs](https://aws.amazon.com/dms/faqs/)|
+| 29  | Amazon Keyspaces (for Apache Cassandra) | 📖 [keyspaces](https://docs.aws.amazon.com/keyspaces) | ▶️ [Assistir](https://youtu.be/SvEnPiWuqjE) | ❔ [keyspaces/faqs](https://aws.amazon.com/keyspaces/faqs/)|
+| 30  | Amazon QLDB                      | 📖 [qldb](https://docs.aws.amazon.com/qldb) | ▶️ [Assistir](https://youtu.be/JybHaHSmF9Y) | ❔ [qldb/faqs](https://aws.amazon.com/qldb/faqs/)|
+
+### Redes e CDN
+
+| ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
+|-----|----------------------------------|------------------|------------|--------------------------|
+| 31  | Amazon VPC                       | 📖 [vpc](https://docs.aws.amazon.com/vpc) | ▶️ [Assistir](https://youtu.be/L1j9Xih84i0) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
+| 32  | AWS Direct Connect               | 📖 [directconnect](https://docs.aws.amazon.com/directconnect) | ▶️ [Assistir](https://youtu.be/IdMl7oJlfyA) | ❔ [directconnect/faqs](https://aws.amazon.com/directconnect/faqs/)|
+| 33  | Amazon Route 53                  | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [Assistir](https://youtu.be/8XiYZ9x3g1s) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
+| 34  | Elastic Load Balancing (ELB)     | 📖 [elb](https://docs.aws.amazon.com/elb) | ▶️ [Assistir](https://youtu.be/zm4kXgsiyBU) | ❔ [elb/faqs](https://aws.amazon.com/elb/faqs/)|
+| 35  | Amazon CloudFront                | 📖 [cloudfront](https://docs.aws.amazon.com/cloudfront) | ▶️ [Assistir](https://youtu.be/BB5_xLs8mIw) | ❔ [cloudfront/faqs](https://aws.amazon.com/cloudfront/faqs/)|
+| 36  | AWS Transit Gateway              | 📖 [transitgateway](https://docs.aws.amazon.com/transitgateway) | ▶️ [Assistir](https://youtu.be/JmC_yWBbZB0) | ❔ [transitgateway/faqs](https://aws.amazon.com/transitgateway/faqs/)|
+| 37  | Amazon API Gateway               | 📖 [apigateway](https://docs.aws.amazon.com/apigateway) | ▶️ [Assistir](https://youtu.be/LbIQqAqBy8Y) | ❔ [apigateway/faqs](https://aws.amazon.com/apigateway/faqs/)|
+| 38  | AWS Global Accelerator           | 📖 [globalaccelerator](https://docs.aws.amazon.com/globalaccelerator) | ▶️ [Assistir](https://youtu.be/jpAA9kGdrf8) | ❔ [globalaccelerator/faqs](https://aws.amazon.com/globalaccelerator/faqs/)|
+| 39  | Amazon PrivateLink               | 📖 [privatelink](https://docs.aws.amazon.com/privatelink) | ▶️ [Assistir](https://youtu.be/mnD3Q_0Khm0) | ❔ [privatelink/faqs](https://aws.amazon.com/privatelink/faqs/)|
+| 40  | AWS WAF                          | 📖 [waf](https://docs.aws.amazon.com/waf) | ▶️ [Assistir](https://youtu.be/6NdT3mhr7Ns) | ❔ [waf/faqs](https://aws.amazon.com/waf/faqs/)|
+
+
 
 
 
