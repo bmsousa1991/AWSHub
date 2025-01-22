@@ -92,6 +92,35 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 39  | Amazon PrivateLink               | 📖 [privatelink](https://docs.aws.amazon.com/privatelink) | ▶️ [Assistir](https://youtu.be/mnD3Q_0Khm0) | ❔ [privatelink/faqs](https://aws.amazon.com/privatelink/faqs/)|
 | 40  | AWS WAF                          | 📖 [waf](https://docs.aws.amazon.com/waf) | ▶️ [Assistir](https://youtu.be/6NdT3mhr7Ns) | ❔ [waf/faqs](https://aws.amazon.com/waf/faqs/)|
 
+### Análise e Big Data
+
+| ID  | Nome do Serviço                     | Documentação AWS | Introdução | Perguntas Frequentes AWS |
+|-----|-------------------------------------|------------------|------------|--------------------------|
+| 41  | Amazon Athena                       | 📖 [athena](https://docs.aws.amazon.com/athena) | ▶️ [Assistir](https://youtu.be/Z1uOgALz17I) | ❔ [athena/faqs](https://aws.amazon.com/athena/faqs/)|
+| 42  | Amazon Kinesis                      | 📖 [kinesis](https://docs.aws.amazon.com/kinesis) | ▶️ [Assistir](https://youtu.be/0s-TtbTs-y8) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
+| 43  | Amazon EMR (Elastic MapReduce)      | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/OmhdoB0HZl0) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
+| 44  | Amazon QuickSight                   | 📖 [quicksight](https://docs.aws.amazon.com/quicksight) | ▶️ [Assistir](https://youtu.be/xhYuS2c5EXo) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
+| 45  | AWS Glue                            | 📖 [glue](https://docs.aws.amazon.com/glue) | ▶️ [Assistir](https://youtu.be/GeF6RxdZupI) | ❔ [glue/faqs](https://aws.amazon.com/glue/faqs/)|
+| 46  | Amazon Elasticsearch Service (OpenSearch Service) | 📖 [elasticsearch](https://docs.aws.amazon.com/elasticsearch) | ▶️ [Assistir](https://youtu.be/ah6HJi7BDkY) | ❔ [elasticsearch/faqs](https://aws.amazon.com/elasticsearch/faqs/)|
+| 47  | Amazon Redshift Spectrum            | 📖 [redshift-spectrum](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/qfTovWYXKPM) | ❔ [redshift-spectrum/faqs](https://aws.amazon.com/redshift/faqs/)|
+| 48  | AWS Data Pipeline                   | 📖 [datapipeline](https://docs.aws.amazon.com/datapipeline) | ▶️ [Assistir](https://youtu.be/QZ0vxnVZKv8) | ❔ [datapipeline/faqs](https://aws.amazon.com/datapipeline/faqs/)|
+| 49  | AWS Lake Formation                  | 📖 [lakeformation](https://docs.aws.amazon.com/lakeformation) | ▶️ [Assistir](https://youtu.be/7NR8TUpG1Bw) | ❔ [lakeformation/faqs](https://aws.amazon.com/lakeformation/faqs/)|
+| 50  | AWS DataSync                        | 📖 [datasync](https://docs.aws.amazon.com/datasync) | ▶️ [Assistir](https://youtu.be/uod7vGs3hEs) | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/)|
+
+### Inteligência Artificial e Machine Learning
+
+| ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
+|-----|----------------------------------|------------------|------------|--------------------------|
+| 51  | Amazon SageMaker                 | 📖 [sagemaker](https://docs.aws.amazon.com/sagemaker) | ▶️ [Assistir](https://youtu.be/eC_X2oT3PBg) | ❔ [sagemaker/faqs](https://aws.amazon.com/sagemaker/faqs/)|
+| 52  | Amazon Rekognition               | 📖 [rekognition](https://docs.aws.amazon.com/rekognition) | ▶️ [Assistir](https://youtu.be/Lnepg5DQmkI) | ❔ [rekognition/faqs](https://aws.amazon.com/rekognition/faqs/)|
+| 53  | Amazon Polly                     | 📖 [polly](https://docs.aws.amazon.com/polly) | ▶️ [Assistir](https://youtu.be/t7NxEJN1rQI) | ❔ [polly/faqs](https://aws.amazon.com/polly/faqs/)|
+| 54  | Amazon Lex                       | 📖 [lex](https://docs.aws.amazon.com/lex) | ▶️ [Assistir](https://youtu.be/JH1NRlU0LHs) | ❔ [lex/faqs](https://aws.amazon.com/lex/faqs/)|
+| 55  | AWS Deep Learning AMIs           | 📖 [deeplearning](https://docs.aws.amazon.com/deeplearning) | ▶️ [Assistir](https://youtu.be/lmP72ljDI7k) | ❔ [deeplearning/faqs](https://aws.amazon.com/deeplearning/faqs/)|
+| 56  | AWS Comprehend                   | 📖 [comprehend](https://docs.aws.amazon.com/comprehend) | ▶️ [Assistir](https://youtu.be/_JLwV-PaWdo) | ❔ [comprehend/faqs](https://aws.amazon.com/comprehend/faqs/)|
+| 57  | AWS Translate                    | 📖 [translate](https://docs.aws.amazon.com/translate) | ▶️ [Assistir](https://youtu.be/I_d1FJrdcEw) | ❔ [translate/faqs](https://aws.amazon.com/translate/faqs/)|
+| 58  | AWS Transcribe                   | 📖 [transcribe](https://docs.aws.amazon.com/transcribe) | ▶️ [Assistir](https://youtu.be/JW7fSbxsKcQ) | ❔ [transcribe/faqs](https://aws.amazon.com/transcribe/faqs/)|
+| 59  | Amazon Personalize               | 📖 [personalize](https://docs.aws.amazon.com/personalize) | ▶️ [Assistir](https://youtu.be/kDtj3sVEq60) | ❔ [personalize/faqs](https://aws.amazon.com/personalize/faqs/)|
+| 60  | Amazon Forecast                  | 📖 [forecast](https://docs.aws.amazon.com/forecast) | ▶️ [Assistir](https://youtu.be/P8kVGz43EQk) | ❔ [forecast/faqs](https://aws.amazon.com/forecast/faqs/)|
 
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
