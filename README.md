@@ -30,7 +30,39 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
     ![aurora_overview](./assets/aurora_overview.png)
 
-Tabela Completa de Recursos de Aprendizado de Serviços AWS
+## Tabela Completa de Recursos de Aprendizado de Serviços AWS
+
+## Computação
+
+| ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
+|-----|-------------------------------|------------------|------------|--------------------------|
+| 1   | Amazon EC2                    | 📖 [ec2](https://docs.aws.amazon.com/ec2) | ▶️ [Assistir](https://youtu.be/u99tNt3TZf8) | ❔ [ec2/faqs](https://aws.amazon.com/ec2/faqs/)|
+| 2   | Amazon Lightsail              | 📖 [lightsail](https://docs.aws.amazon.com/lightsail) | ▶️ [Assistir](https://youtu.be/yIkYN9vxzwM) | ❔ [lightsail/faqs](https://aws.amazon.com/lightsail/faqs/)|
+| 3   | AWS Lambda                    | 📖 [lambda](https://docs.aws.amazon.com/lambda) | ▶️ [Assistir](https://youtu.be/eOBq__h4OJ4) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
+| 4   | Amazon Elastic Beanstalk      | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk) | ▶️ [Assistir](https://youtu.be/zWGFqMuEHdw) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/)|
+| 5   | Amazon EC2 Auto Scaling       | 📖 [autoscaling](https://docs.aws.amazon.com/autoscaling) | ▶️ [Assistir](https://youtu.be/W6A3B3A_Xf8) | ❔ [autoscaling/faqs](https://aws.amazon.com/autoscaling/faqs/)|
+| 6   | AWS Fargate                   | 📖 [fargate](https://docs.aws.amazon.com/fargate) | ▶️ [Assistir](https://youtu.be/zvGPt-2JiD8) | ❔ [fargate/faqs](https://aws.amazon.com/fargate/faqs/)|
+| 7   | Amazon EKS                    | 📖 [eks](https://docs.aws.amazon.com/eks) | ▶️ [Assistir](https://youtu.be/s_n9eAtcnwo) | ❔ [eks/faqs](https://aws.amazon.com/eks/faqs/)|
+| 8   | Amazon ECS                    | 📖 [ecs](https://docs.aws.amazon.com/ecs) | ▶️ [Assistir](https://youtu.be/dWbEgGBTMU4) | ❔ [ecs/faqs](https://aws.amazon.com/ecs/faqs/)|
+| 9   | Amazon EMR                    | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/WQFoYfL8Gjo) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
+| 10  | Amazon Batch                  | 📖 [batch](https://docs.aws.amazon.com/batch) | ▶️ [Assistir](https://youtu.be/m80hFZJpvgU) | ❔ [batch/faqs](https://aws.amazon.com/batch/faqs/)|
+
+## Armazenamento
+
+| ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
+|-----|-------------------------------|------------------|------------|--------------------------|
+| 11  | Amazon S3                     | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [Assistir](https://youtu.be/sBzJ3hx3GJQ) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
+| 12  | Amazon EBS                    | 📖 [ebs](https://docs.aws.amazon.com/ebs) | ▶️ [Assistir](https://youtu.be/YYL3cOJwouU) | ❔ [ebs/faqs](https://aws.amazon.com/ebs/faqs/)|
+| 13  | Amazon EFS                    | 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/pAH0f6BQPKY) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
+| 14  | Amazon FSx                    | 📖 [fsx](https://docs.aws.amazon.com/fsx) | ▶️ [Assistir](https://youtu.be/C1_M_G7s7n0) | ❔ [fsx/faqs](https://aws.amazon.com/fsx/faqs/)|
+| 15  | Amazon Glacier                | 📖 [glacier](https://docs.aws.amazon.com/glacier) | ▶️ [Assistir](https://youtu.be/6qqzdZxTq28) | ❔ [glacier/faqs](https://aws.amazon.com/glacier/faqs/)|
+| 16  | AWS Backup                    | 📖 [backup](https://docs.aws.amazon.com/backup) | ▶️ [Assistir](https://youtu.be/PhgItfNC4X0) | ❔ [backup/faqs](https://aws.amazon.com/backup/faqs/)|
+| 17  | Amazon S3 Glacier Deep Archive| 📖 [s3glacier](https://docs.aws.amazon.com/s3/glacier) | ▶️ [Assistir](https://youtu.be/7xwDOh_QHLw) | ❔ [s3glacier/faqs](https://aws.amazon.com/glacier/faqs/)|
+| 18  | AWS Snowball                  | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/Rs_1P7qQ24I) | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/)|
+| 19  | AWS Storage Gateway           | 📖 [storagegateway](https://docs.aws.amazon.com/storagegateway) | ▶️ [Assistir](https://youtu.be/Nt9fi3neFUo) | ❔ [storagegateway/faqs](https://aws.amazon.com/storagegateway/faqs/)|
+| 20  | Amazon Elastic File System (EFS)| 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/pAH0f6BQPKY) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
+
+
 
 | ID  | Nome do Serviço        | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|------------------------|------------------|------------|--------------------------|
@@ -76,64 +108,8 @@ Tabela Completa de Recursos de Aprendizado de Serviços AWS
 | 40  | AWS Secrets Manager    | 📖 [secrets-manager](https://aws.amazon.com/secrets-manager/) | ▶️ [Assistir](https://youtu.be/-9nOyaM3kZk) | ❔ [secrets-manager/faqs](https://aws.amazon.com/secrets-manager/faqs/)|
 | 41  | AWS VPC                | 📖 [vpc](https://docs.aws.amazon.com/vpc/) | ▶️ [Assistir](https://youtu.be/hiKPPy584Mg) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
 | 42  | AWS WAF                | 📖 [waf](https://aws.amazon.com/waf/) | ▶️ [Assistir](https://youtu.be/nUI7G9UzyN8) | ❔ [waf/faqs](https://aws.amazon.com/waf/faqs/)|
-| 43  | AWS DMS                | 📖 [dms](https://docs.aws.amazon.com/dms/) | ▶️ [Assistir](https://youtu.be/BQJdN8sfpl8) | ❔ [dms/faqs](https://aws.amazon.com/dms/faqs/)|
-| 44  | AWS Fargate            | 📖 [fargate](https://docs.aws.amazon.com/fargate/) | ▶️ [Assistir](https://youtu.be/VGmbzqjJSyA) | ❔ [fargate/faqs](https://aws.amazon.com/fargate/faqs/)|
-| 45  | AWS Global Accelerator | 📖 [global-accelerator](https://docs.aws.amazon.com/global-accelerator/) | ▶️ [Assistir](https://youtu.be/AYdy3yKm_sI) | ❔ [global-accelerator/faqs](https://aws.amazon.com/global-accelerator/faqs/)|
-| 46  | AWS Ground Station     | 📖 [groundstation](https://aws.amazon.com/ground-station/) | ▶️ [Assistir](https://youtu.be/e9aO57zyF4g) | ❔ [groundstation/faqs](https://aws.amazon.com/ground-station/faqs/)|
-| 47  | AWS IoT Core           | 📖 [iot-core](https://docs.aws.amazon.com/iot-core/) | ▶️ [Assistir](https://youtu.be/xUSJQZGqzxQ) | ❔ [iot-core/faqs](https://aws.amazon.com/iot-core/faqs/)|
-| 48  | AWS Kendra             | 📖 [kendra](https://docs.aws.amazon.com/kendra/) | ▶️ [Assistir](https://youtu.be/3F5cb1c7td8) | ❔ [kendra/faqs](https://aws.amazon.com/kendra/faqs/)|
-| 49  | AWS Lambda@Edge        | 📖 [lambda-at-edge](https://docs.aws.amazon.com/lambda-at-edge/) | ▶️ [Assistir](https://youtu.be/ON2AAlkWmtY) | ❔ [lambda-at-edge/faqs](https://aws.amazon.com/lambda-at-edge/faqs/)|
-| 50  | AWS Managed Blockchain | 📖 [managed-blockchain](https://docs.aws.amazon.com/managed-blockchain/) | ▶️ [Assistir](https://youtu.be/g7iG7ZOCNS0) | ❔ [managed-blockchain/faqs](https://aws.amazon.com/managed-blockchain/faqs/)|
-| 51  | AWS Migration Hub      | 📖 [migration-hub](https://docs.aws.amazon.com/migrationhub/) | ▶️ [Assistir](https://youtu.be/A8rwRfyIUPI) | ❔ [migration-hub/faqs](https://aws.amazon.com/migration-hub/faqs/)|
-| 52  | AWS Network Firewall   | 📖 [network-firewall](https://docs.aws.amazon.com/network-firewall/) | ▶️ [Assistir](https://youtu.be/l9a_jkjd0Nc) | ❔ [network-firewall/faqs](https://aws.amazon.com/network-firewall/faqs/)|
-| 53  | AWS Proton             | 📖 [proton](https://docs.aws.amazon.com/proton/) | ▶️ [Assistir](https://youtu.be/a7MI-1zj-Vg) | ❔ [proton/faqs](https://aws.amazon.com/proton/faqs/)|
-| 54  | AWS RAM                | 📖 [ram](https://docs.aws.amazon.com/ram/) | ▶️ [Assistir](https://youtu.be/7F5TtPpTZps) | ❔ [ram/faqs](https://aws.amazon.com/ram/faqs/)|
-| 55  | AWS Redshift           | 📖 [redshift](https://docs.aws.amazon.com/redshift/) | ▶️ [Assistir](https://youtu.be/2dkFz6k7DXY) | ❔ [redshift/faqs](https://aws.amazon.com/redshift/faqs/)|
-| 56  | AWS Resource Groups    | 📖 [resource-groups](https://docs.aws.amazon.com/resource-groups/) | ▶️ [Assistir](https://youtu.be/oW7UGANX3ok) | ❔ [resource-groups/faqs](https://aws.amazon.com/resource-groups/faqs/)|
-| 57  | AWS RoboMaker          | 📖 [robomaker](https://docs.aws.amazon.com/robomaker/) | ▶️ [Assistir](https://youtu.be/YEdcD2KZbKk) | ❔ [robomaker/faqs](https://aws.amazon.com/robomaker/faqs/)|
-| 58  | AWS Sagemaker          | 📖 [sagemaker](https://docs.aws.amazon.com/sagemaker/) | ▶️ [Assistir](https://youtu.be/aZX1YzhRybk) | ❔ [sagemaker/faqs](https://aws.amazon.com/sagemaker/faqs/)|
-| 59  | AWS Secrets Manager    | 📖 [secrets-manager](https://aws.amazon.com/secrets-manager/) | ▶️ [Assistir](https://youtu.be/-9nOyaM3kZk) | ❔ [secrets-manager/faqs](https://aws.amazon.com/secrets-manager/faqs/)|
-| 60  | AWS Security Hub       | 📖 [security-hub](https://docs.aws.amazon.com/securityhub/) | ▶️ [Assistir](https://youtu.be/x1aDlDhMxlE) | ❔ [security-hub/faqs](https://aws.amazon.com/security-hub/faqs/)|
-| 61  | AWS Serverless Application Model (SAM) | 📖 [sam](https://docs.aws.amazon.com/serverless-application-model/) | ▶️ [Assistir](https://youtu.be/CxUhrZ2g35Y) | ❔ [sam/faqs](https://aws.amazon.com/serverless-application-model/faqs/)|
-| 62  | AWS SES                | 📖 [ses](https://docs.aws.amazon.com/ses/) | ▶️ [Assistir](https://youtu.be/w_HG33MP5BQ) | ❔ [ses/faqs](https://aws.amazon.com/ses/faqs/)|
-| 63  | AWS Shield             | 📖 [shield](https://docs.aws.amazon.com/shield/) | ▶️ [Assistir](https://youtu.be/Ymll6_HI3Yo) | ❔ [shield/faqs](https://aws.amazon.com/shield/faqs/)|
-| 64  | AWS Snowball           | 📖 [snowball](https://docs.aws.amazon.com/snowball/) | ▶️ [Assistir](https://youtu.be/KJcGo9F7ACQ) | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/)|
-| 65  | AWS SSO                | 📖 [sso](https://docs.aws.amazon.com/sso/) | ▶️ [Assistir](https://youtu.be/FT2Bmw01Ydk) | ❔ [sso/faqs](https://aws.amazon.com/sso/faqs/)|
-| 66  | AWS Step Functions     | 📖 [step-functions](https://docs.aws.amazon.com/step-functions/) | ▶️ [Assistir](https://youtu.be/UabXaM9kIh8) | ❔ [step-functions/faqs](https://aws.amazon.com/step-functions/faqs/)|
-| 67  | AWS Storage Gateway    | 📖 [storage-gateway](https://docs.aws.amazon.com/storage-gateway/) | ▶️ [Assistir](https://youtu.be/sKnQoc5p5Kk) | ❔ [storage-gateway/faqs](https://aws.amazon.com/storage-gateway/faqs/)|
-| 68  | AWS Systems Manager    | 📖 [systems-manager](https://docs.aws.amazon.com/systems-manager/) | ▶️ [Assistir](https://youtu.be/CbSgH5b-i0o) | ❔ [systems-manager/faqs](https://aws.amazon.com/systems-manager/faqs/)|
-| 69  | AWS Timestream         | 📖 [timestream](https://docs.aws.amazon.com/timestream/) | ▶️ [Assistir](https://youtu.be/MiyTc2m7PVA) | ❔ [timestream/faqs](https://aws.amazon.com/timestream/faqs/)|
-| 70  | AWS Transcribe         | 📖 [transcribe](https://docs.aws.amazon.com/transcribe/) | ▶️ [Assistir](https://youtu.be/MZwfG9xkX4Y) | ❔ [transcribe/faqs](https://aws.amazon.com/transcribe/faqs/)|
-| 71  | AWS Translate          | 📖 [translate](https://docs.aws.amazon.com/translate/) | ▶️ [Assistir](https://youtu.be/4pX2gox98nY) | ❔ [translate/faqs](https://aws.amazon.com/translate/faqs/)|
-| 72  | AWS VPN                | 📖 [vpn](https://docs.aws.amazon.com/vpn/) | ▶️ [Assistir](https://youtu.be/8uTnMCtXY8o) | ❔ [vpn/faqs](https://aws.amazon.com/vpn/faqs/)|
-| 73  | AWS Wavelength         | 📖 [wavelength](https://docs.aws.amazon.com/wavelength/) | ▶️ [Assistir](https://youtu.be/1Kjm-dwz7V4) | ❔ [wavelength/faqs](https://aws.amazon.com/wavelength/faqs/)|
-| 74  | AWS X-Ray              | 📖 [x-ray](https://docs.aws.amazon.com/xray/) | ▶️ [Assistir](https://youtu.be/l7bOCu6IybI) | ❔ [x-ray/faqs](https://aws.amazon.com/x-ray/faqs/)|
-| 75  | AWS Amplify            | 📖 [amplify](https://docs.aws.amazon.com/amplify/) | ▶️ [Assistir](https://youtu.be/hs_R2M3STOs) | ❔ [amplify/faqs](https://aws.amazon.com/amplify/faqs/)|
-| 76  | AWS AppMesh            | 📖 [appmesh](https://docs.aws.amazon.com/app-mesh/) | ▶️ [Assistir](https://youtu.be/UHgP59bAWxA) | ❔ [appmesh/faqs](https://aws.amazon.com/appmesh/faqs/)|
-| 77  | AWS Batch              | 📖 [batch](https://docs.aws.amazon.com/batch/) | ▶️ [Assistir](https://youtu.be/eCqIi-o-34I) | ❔ [batch/faqs](https://aws.amazon.com/batch/faqs/)|
-| 78  | AWS Chime SDK          | 📖 [chime-sdk](https://docs.aws.amazon.com/chime-sdk/) | ▶️ [Assistir](https://youtu.be/poEsP-hzA1A) | ❔ [chime-sdk/faqs](https://aws.amazon.com/chime-sdk/faqs/)|
-| 79  | AWS CodeBuild          | 📖 [codebuild](https://docs.aws.amazon.com/codebuild/) | ▶️ [Assistir](https://youtu.be/5vVm9Rm7cjo) | ❔ [codebuild/faqs](https://aws.amazon.com/codebuild/faqs/)|
-| 80  | AWS CodeDeploy         | 📖 [codedeploy](https://docs.aws.amazon.com/codedeploy/) | ▶️ [Assistir](https://youtu.be/KHmwGVwv30s) | ❔ [codedeploy/faqs](https://aws.amazon.com/codedeploy/faqs/)|
-| 81  | AWS CodePipeline       | 📖 [codepipeline](https://docs.aws.amazon.com/codepipeline/) | ▶️ [Assistir](https://youtu.be/eEbjP7r0EuE) | ❔ [codepipeline/faqs](https://aws.amazon.com/codepipeline/faqs/)|
-| 82  | AWS Cloud9             | 📖 [cloud9](https://docs.aws.amazon.com/cloud9/) | ▶️ [Assistir](https://youtu.be/aob-Ry3-m8Q) | ❔ [cloud9/faqs](https://aws.amazon.com/cloud9/faqs/)|
-| 83  | AWS CloudFormation     | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation/) | ▶️ [Assistir](https://youtu.be/a-T_FJNzfLw) | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/)|
-| 84  | AWS CodeStar           | 📖 [codestar](https://docs.aws.amazon.com/codestar/) | ▶️ [Assistir](https://youtu.be/zWgse88Qntw) | ❔ [codestar/faqs](https://aws.amazon.com/codestar/faqs/)|
-| 85  | AWS DataSync           | 📖 [datasync](https://docs.aws.amazon.com/datasync/) | ▶️ [Assistir](https://youtu.be/RvSSpZg9JNo) | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/)|
-| 86  | AWS Database Migration Service | 📖 [dms](https://docs.aws.amazon.com/dms/) | ▶️ [Assistir](https://youtu.be/75THNh1IF48) | ❔ [dms/faqs](https://aws.amazon.com/dms/faqs/)|
-| 87  | AWS Direct Connect     | 📖 [direct-connect](https://docs.aws.amazon.com/direct-connect/) | ▶️ [Assistir](https://youtu.be/0nt2UzWhp6Y) | ❔ [direct-connect/faqs](https://aws.amazon.com/direct-connect/faqs/)|
-| 88  | AWS Elastic Beanstalk  | 📖 [elastic-beanstalk](https://docs.aws.amazon.com/elastic-beanstalk/) | ▶️ [Assistir](https://youtu.be/WsX96u8g2Ag) | ❔ [elastic-beanstalk/faqs](https://aws.amazon.com/elastic-beanstalk/faqs/)|
-| 89  | AWS Elastic File System | 📖 [efs](https://docs.aws.amazon.com/efs/) | ▶️ [Assistir](https://youtu.be/1A6rb-zz1y4) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
-| 90  | AWS Elastic Load Balancing | 📖 [elb](https://docs.aws.amazon.com/elasticloadbalancing/) | ▶️ [Assistir](https://youtu.be/ERuWzFlfg2Q) | ❔ [elb/faqs](https://aws.amazon.com/elb/faqs/)|
-| 91  | AWS Elemental MediaConnect | 📖 [media-connect](https://docs.aws.amazon.com/mediaconnect/) | ▶️ [Assistir](https://youtu.be/WtRJh3vFh9Y) | ❔ [media-connect/faqs](https://aws.amazon.com/mediaconnect/faqs/)|
-| 92  | AWS Elemental MediaConvert | 📖 [media-convert](https://docs.aws.amazon.com/mediaconvert/) | ▶️ [Assistir](https://youtu.be/6d7GsxxIjKQ) | ❔ [media-convert/faqs](https://aws.amazon.com/mediaconvert/faqs/)|
-| 93  | AWS Elemental MediaLive | 📖 [media-live](https://docs.aws.amazon.com/medialive/) | ▶️ [Assistir](https://youtu.be/mW2pA58HchY) | ❔ [media-live/faqs](https://aws.amazon.com/medialive/faqs/)|
-| 94  | AWS Elemental MediaPackage | 📖 [media-package](https://docs.aws.amazon.com/mediapackage/) | ▶️ [Assistir](https://youtu.be/Y67r14j8nE0) | ❔ [media-package/faqs](https://aws.amazon.com/mediapackage/faqs/)|
-| 95  | AWS Elemental MediaStore | 📖 [media-store](https://docs.aws.amazon.com/mediastore/) | ▶️ [Assistir](https://youtu.be/kni3V_jlLRk) | ❔ [media-store/faqs](https://aws.amazon.com/mediastore/faqs/)|
-| 96  | AWS Elasticache         | 📖 [elasticache](https://docs.aws.amazon.com/elasticache/) | ▶️ [Assistir](https://youtu.be/ehP3m_aRgJ4) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
-| 97  | AWS Key Management Service | 📖 [kms](https://docs.aws.amazon.com/kms/) | ▶️ [Assistir](https://youtu.be/Uu7o2YrNrSM) | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/)|
-| 98  | AWS Kinesis            | 📖 [kinesis](https://docs.aws.amazon.com/kinesis/) | ▶️ [Assistir](https://youtu.be/lSYfnL98STQ) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
-| 99  | AWS Lambda             | 📖 [lambda](https://docs.aws.amazon.com/lambda/) | ▶️ [Assistir](https://youtu.be/9P7eD3Y4b3A) | ❔ [lambda/faqs](https://aws.amazon.com/lambda/faqs/)|
-| 100 | AWS Lake Formation     | 📖 [lake-formation](https://docs.aws.amazon.com/lake-formation/) | ▶️ [Assistir](https://youtu.be/XyCxtONxYyg) | ❔ [lake-formation/faqs](https://aws.amazon.com/lake-formation/faqs/)|
+
+
 
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
