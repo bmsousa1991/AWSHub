@@ -128,29 +128,29 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ---
 
-## 🚀 **Certificações Profissionais**
+### 🚀 **Certificações Profissionais**
 
-### AWS Certified Solutions Architect - Professional (SAP-C01)
+#### AWS Certified Solutions Architect - Professional (SAP-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
 
-### AWS Certified DevOps Engineer - Professional (DOP-C01)
+#### AWS Certified DevOps Engineer - Professional (DOP-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
 
 ---
 
-## 🧑‍🔬 **Certificações Specialty**
+### 🧑‍🔬 **Certificações Specialty**
 
-### AWS Certified Advanced Networking - Specialty (ANS-C00)
+#### AWS Certified Advanced Networking - Specialty (ANS-C00)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Sample-Questions.pdf)
 
-### AWS Certified Machine Learning - Specialty (MLS-C01)
+#### AWS Certified Machine Learning - Specialty (MLS-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Machine-Learning-Specialty_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf)
 
-### AWS Certified Security - Specialty (SCS-C01)
+#### AWS Certified Security - Specialty (SCS-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 - [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Sample-Questions.pdf)
 
