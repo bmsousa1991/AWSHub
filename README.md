@@ -80,3 +80,158 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
 
+## Recursos para Certificação AWS 💯
+
+Preparando-se para o exame de certificação AWS? Aqui estão minhas principais recomendações pessoais para recursos de aprendizado:
+
+# Certificações AWS
+
+### Preparação Gratuita para o Exame
+
+- Preparação para o exame de certificação da AWS: [**aqui**](https://aws.amazon.com/certification/certification-prep/)
+- Confira o Guia do Exame para entender o propósito, o escopo e exemplos de cada certificação, por exemplo:
+
+## AWS Certified Solutions Architect – Associate (SAA-C03)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+
+## AWS Certified Solutions Architect – Professional (SAP-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+
+## AWS Certified Developer – Associate (DVA-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-dev-assoc/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-dev-assoc/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+
+## AWS Certified Developer – Professional (DVP-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Developer-Professional_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Developer-Professional_Sample-Questions.pdf)
+
+## AWS Certified SysOps Administrator – Associate (SOA-C02)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
+
+## AWS Certified DevOps Engineer – Professional (DOP-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
+
+## AWS Certified Advanced Networking – Specialty (ANS-C00)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Sample-Questions.pdf)
+
+## AWS Certified Security – Specialty (SCS-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Sample-Questions.pdf)
+
+## AWS Certified Machine Learning – Specialty (MLS-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Machine-Learning-Specialty_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf)
+
+## AWS Certified Alexa Skill Builder – Specialty (AXS-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Alexa-Skill-Builder-Specialty_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Alexa-Skill-Builder-Specialty_Sample-Questions.pdf)
+
+## AWS Certified Database – Specialty (DBS-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Database-Specialty_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Database-Specialty_Sample-Questions.pdf)
+
+## AWS Certified SAP on AWS – Specialty (PAS-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-SAP-on-AWS-Specialty_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-SAP-on-AWS-Specialty_Sample-Questions.pdf)
+
+## AWS Certified Cloud Practitioner (CLF-C01)
+- Guia do Exame: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+- Questões de Exame de Amostra: [**aqui**](https://d1.awsstatic.com/training-and-certification/docs-clf/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+
+
+### Cursos
+
+- Stephane Maarek: https://www.udemy.com/user/stephane-maarek/
+- Jon Bonso: https://www.udemy.com/user/jonjonbonso/
+- Adrian Cantrill: https://learn.cantrill.io/
+- Youtube freeCodeCamp.org: https://youtu.be/NhDYbskXRgc
+
+### Hands-on/Labs
+
+- Labs gratuitos learn-cantrill-io: https://github.com/acantril/learn-cantrill-io-labs
+- Curso gratuito AWS Cloud Complete Bootcamp: https://youtu.be/zA8guDqfv40
+
+### Testes Práticos
+
+- Exam Topics - Lista de todos os exames da Amazon (Gratuito): [**aqui**](https://www.examtopics.com/exams/amazon/) (Ex: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
+- Testes Práticos TutorialsDojo (Ex: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
+- Udemy - Testes Práticos de Stephane Maarek (Ex: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
+
+### Guias/Fichas de Consulta
+
+- Digital Cloud Training - Fichas de Consulta AWS: https://digitalcloud.training/aws-cheat-sheets/
+- TutorialsDojo - Fichas de Consulta AWS: https://tutorialsdojo.com/aws-cheat-sheets/
+- Whizlabs - Fichas de Consulta AWS: https://www.whizlabs.com/blog/aws-cheat-sheet/
+
+### Recursos de Aprendizado de Serviços AWS
+
+O link abaixo funciona como um marcador, ajudando você a recapitular o serviço por meio de um vídeo introdutório curto e fornecendo documentos, bem como perguntas frequentes que você pode consultar durante a preparação/prática do exame.
+
+- Explore [**recursos de aprendizado de serviços aws**](https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-)
+
+### Sub-Reddit de Certificação AWS
+
+- [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) reúne discussões, perguntas, opiniões, notícias e comentários sobre certificações AWS, como dicas de preparação, esclarecimentos, lições aprendidas.
+
+### Recursos Específicos de Certificação AWS
+
+|     | ID          | Nome da Certificação                           | Caminho de Aprendizado                                |
+| --- | ----------- | ---------------------------------------------- | ----------------------------------------------------- |
+| 1   | AWS SAA-C03 | Exame AWS Certified Solutions Architect - Associate | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md)   |
+| 2   | AWS CLF-C02 | Exame AWS Certified Cloud Practitioner          | ...em breve                                           |
+| 3   | AWS DOP-C02 | Exame AWS Certified DevOps Engineer - Professional | ...em breve                                           |
+
+➡️ Explore este [**conjunto de recursos específicos de certificação AWS**](./certification/) para mais detalhes.
+
+## Arquitetura AWS ✒️
+
+Descubra a arquitetura dos Amazon Web Services, onde os serviços se combinam perfeitamente com as melhores práticas:
+
+- **This is My Architecture**: Uma série oficial de vídeos do YouTube pela AWS que apresenta soluções arquitetônicas inovadoras na AWS Cloud por clientes e parceiros. Cada episódio examina os elementos mais interessantes e tecnicamente criativos de cada arquitetura de nuvem. Assista à série 📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+
+  - Por exemplo: [Nielsen - Processando 55TB de Dados por Dia com AWS Lambda](https://youtu.be/Jkx6kVbDpL4)
+
+    ![](./assets/this-is-my-architecture-sample.png)
+
+- **AWS - This is My Architecture Episódios Especiais:** Assista à série 📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr&si=jR0l2cuhwgRrVUlN)
+
+- **AWS Well-Architected Framework:** Aprenda sobre as melhores práticas da AWS para construir infraestrutura segura, de alto desempenho, resiliente e eficiente para suas aplicações. Acesse o framework 📖 [**aqui**](https://aws.amazon.com/architecture/well-architected/)
+
+- **Referências de Arquitetura AWS:** Descubra padrões de arquitetura pré-projetados e melhores práticas para vários casos de uso, como hospedagem de sites, processamento de grandes volumes de dados e mais. Explore as referências 📖 [**aqui**](https://aws.amazon.com/architecture/)
+
+- **Whitepapers AWS:** Aprofunde-se nos serviços e soluções AWS com whitepapers técnicos que cobrem arquitetura, segurança, otimização de desempenho e muito mais. Encontre os whitepapers 📖 [**aqui**](https://aws.amazon.com/whitepapers/)
+
+## Orientações Prescritivas AWS 📑
+- Recursos de especialistas em tecnologia AWS e parceiros da AWS para ajudar a acelerar a adoção e modernização da nuvem.
+- Explore [**aqui**](https://aws.amazon.com/prescriptive-guidance)
+
+## Tutoriais Práticos AWS 📗
+- Comece com tutoriais passo a passo para lançar sua primeira aplicação.
+- Explore [**aqui**](https://aws.amazon.com/getting-started/hands-on)
+
+## Canal Oficial do YouTube AWS 📺
+
+Visite [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebservices)
+
+- AWS re:Invent 2023: https://youtu.be/UTRBVPvzt9w
+- AWS re:Invent 2022: https://youtu.be/RfvL_423a-I
+- AWS re:Invent 2021: https://youtu.be/8_Xs8Ik0h1w
+- ...e mais
+
+## O Que Vem a Seguir? ❔
+
+- Continuarei mantendo este repositório e atualizando os recursos.
+- Fique atento para mais conteúdos valiosos, pois continuo adicionando os recursos e atualizações mais recentes.
+- ⏩ Você pode dar uma estrela ⭐/seguir 👀 este repositório para ficar atualizado com o conteúdo mais recente!
+
+## Contribuindo 👋
+
+- Veja: [CONTRIBUINDO.MD](./CONTRIBUINDO.md)
+- Se achar este repositório útil, considere mostrar sua apreciação dando uma estrela ⭐. Obrigado! 💖
+- Procurando uma tarefa para trabalhar? Confira a lista de nossos [**bons primeiros problemas**](https://github.com/tungbq/AWS-LearningResource/labels/good%20first%20issue)
+- Sinta-se à vontade para abrir um novo problema se quiser solicitar mais conteúdo sobre recursos de aprendizado de serviços AWS.
