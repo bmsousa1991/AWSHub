@@ -89,6 +89,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 ### 🌟 **Guia Geral de Preparação**
 - **Portal de Preparação para Certificação AWS**: [Acesse aqui](https://aws.amazon.com/certification/certification-prep/)
 
+![aws-certification](./assets/aws-certification.png)
 ---
 
 ### 🛠 **Certificações Fundamentais**
