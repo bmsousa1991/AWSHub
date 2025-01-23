@@ -69,12 +69,12 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 22  | Amazon DynamoDB                  | 📖 [dynamodb](https://docs.aws.amazon.com/dynamodb) | ▶️ [Assistir](https://youtu.be/sI-zciHAh-4) | ❔ [dynamodb/faqs](https://aws.amazon.com/dynamodb/faqs/)|
 | 23  | Amazon Aurora                    | 📖 [aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html) | ▶️ [Assistir](https://youtu.be/xKFA6PJgp0o) | ❔ [aurora/faqs](https://aws.amazon.com/aurora/faqs/)|
 | 24  | Amazon Redshift                  | 📖 [redshift](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/8b58xGDHIog) | ❔ [redshift/faqs](https://aws.amazon.com/redshift/faqs/)|
-| 25  | Amazon Neptune                   | 📖 [neptune](https://docs.aws.amazon.com/neptune) | ▶️ [Assistir](https://youtu.be/t_dGbrE0vAQ) | ❔ [neptune/faqs](https://aws.amazon.com/neptune/faqs/)|
-| 26  | Amazon ElastiCache               | 📖 [elasticache](https://docs.aws.amazon.com/elasticache) | ▶️ [Assistir](https://youtu.be/b-dMZAit06o) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
-| 27  | Amazon DocumentDB                | 📖 [documentdb](https://docs.aws.amazon.com/documentdb) | ▶️ [Assistir](https://youtu.be/tAhV3suqSMo) | ❔ [documentdb/faqs](https://aws.amazon.com/documentdb/faqs/)|
-| 28  | AWS Database Migration Service   | 📖 [dms](https://docs.aws.amazon.com/dms) | ▶️ [Assistir](https://youtu.be/xkXzD0V1UNY) | ❔ [dms/faqs](https://aws.amazon.com/dms/faqs/)|
-| 29  | Amazon Keyspaces                 | 📖 [keyspaces](https://docs.aws.amazon.com/keyspaces) | ▶️ [Assistir](https://youtu.be/SvEnPiWuqjE) | ❔ [keyspaces/faqs](https://aws.amazon.com/keyspaces/faqs/)|
-| 30  | Amazon QLDB                      | 📖 [qldb](https://docs.aws.amazon.com/qldb) | ▶️ [Assistir](https://youtu.be/JybHaHSmF9Y) | ❔ [qldb/faqs](https://aws.amazon.com/qldb/faqs/)|
+| 25  | Amazon Neptune                   | 📖 [neptune](https://docs.aws.amazon.com/neptune) | ▶️ [Assistir](https://youtu.be/YmR2_zlQO5w) | ❔ [neptune/faqs](https://aws.amazon.com/neptune/faqs/)|
+| 26  | Amazon ElastiCache               | 📖 [elasticache](https://docs.aws.amazon.com/elasticache) | ▶️ [Assistir](https://youtu.be/v0zozYN-mdI) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
+| 27  | Amazon DocumentDB                | 📖 [documentdb](https://docs.aws.amazon.com/documentdb) | ▶️ [Assistir](https://youtu.be/tkzDp9T8V-k) | ❔ [documentdb/faqs](https://aws.amazon.com/documentdb/faqs/)|
+| 28  | AWS Database Migration Service   | 📖 [dms](https://docs.aws.amazon.com/dms) | ▶️ [Assistir](https://youtu.be/ouia1Sc5QGo) | ❔ [dms/faqs](https://aws.amazon.com/dms/faqs/)|
+| 29  | Amazon Keyspaces                 | 📖 [keyspaces](https://docs.aws.amazon.com/keyspaces) | ▶️ [Assistir](https://youtu.be/PYdLIvBHe2E) | ❔ [keyspaces/faqs](https://aws.amazon.com/keyspaces/faqs/)|
+| 30  | Amazon QLDB                      | 📖 [qldb](https://docs.aws.amazon.com/qldb) | ▶️ [Assistir](https://youtu.be/jcZ_rsLJrqk) | ❔ [qldb/faqs](https://aws.amazon.com/qldb/faqs/)|
 
 #### Redes e CDN
 
