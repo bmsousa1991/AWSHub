@@ -92,11 +92,11 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço                     | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------------|------------------|------------|--------------------------|
-| 41  | Amazon Athena                       | 📖 [athena](https://docs.aws.amazon.com/athena) | ▶️ [Assistir](https://youtu.be/Z1uOgALz17I) | ❔ [athena/faqs](https://aws.amazon.com/athena/faqs/)|
-| 42  | Amazon Kinesis                      | 📖 [kinesis](https://docs.aws.amazon.com/kinesis) | ▶️ [Assistir](https://youtu.be/0s-TtbTs-y8) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
-| 43  | Amazon EMR (Elastic MapReduce)      | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/OmhdoB0HZl0) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
-| 44  | Amazon QuickSight                   | 📖 [quicksight](https://docs.aws.amazon.com/quicksight) | ▶️ [Assistir](https://youtu.be/xhYuS2c5EXo) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
-| 45  | AWS Glue                            | 📖 [glue](https://docs.aws.amazon.com/glue) | ▶️ [Assistir](https://youtu.be/GeF6RxdZupI) | ❔ [glue/faqs](https://aws.amazon.com/glue/faqs/)|
+| 41  | Amazon Athena                       | 📖 [athena](https://docs.aws.amazon.com/athena) | ▶️ [Assistir](https://youtu.be/kgwJ9zeWIy0) | ❔ [athena/faqs](https://aws.amazon.com/athena/faqs/)|
+| 42  | Amazon Kinesis                      | 📖 [kinesis](https://docs.aws.amazon.com/kinesis) | ▶️ [Assistir](https://youtu.be/X0SKArvV7oI) | ❔ [kinesis/faqs](https://aws.amazon.com/kinesis/faqs/)|
+| 43  | Amazon EMR (Elastic MapReduce)      | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/QuwaBOESGiU) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
+| 44  | Amazon QuickSight                   | 📖 [quicksight](https://docs.aws.amazon.com/quicksight) | ▶️ [Assistir](https://youtu.be/2V1bHRLRG-w) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
+| 45  | AWS Glue                            | 📖 [glue](https://docs.aws.amazon.com/glue) | ▶️ [Assistir](https://youtu.be/u14iVEc-C6E) | ❔ [glue/faqs](https://aws.amazon.com/glue/faqs/)|
 | 46  | Amazon Elasticsearch Service        | 📖 [elasticsearch](https://docs.aws.amazon.com/elasticsearch) | ▶️ [Assistir](https://youtu.be/ah6HJi7BDkY) | ❔ [elasticsearch/faqs](https://aws.amazon.com/elasticsearch/faqs/)|
 | 47  | Amazon Redshift Spectrum            | 📖 [redshift-spectrum](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/qfTovWYXKPM) | ❔ [redshift-spectrum/faqs](https://aws.amazon.com/redshift/faqs/)|
 | 48  | AWS Data Pipeline                   | 📖 [datapipeline](https://docs.aws.amazon.com/datapipeline) | ▶️ [Assistir](https://youtu.be/QZ0vxnVZKv8) | ❔ [datapipeline/faqs](https://aws.amazon.com/datapipeline/faqs/)|
