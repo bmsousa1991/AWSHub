@@ -77,12 +77,12 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
-| 31  | Amazon VPC                       | 📖 [vpc](https://docs.aws.amazon.com/vpc) | ▶️ [Assistir](https://youtu.be/L1j9Xih84i0) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
-| 32  | AWS Direct Connect               | 📖 [directconnect](https://docs.aws.amazon.com/directconnect) | ▶️ [Assistir](https://youtu.be/IdMl7oJlfyA) | ❔ [directconnect/faqs](https://aws.amazon.com/directconnect/faqs/)|
-| 33  | Amazon Route 53                  | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [Assistir](https://youtu.be/8XiYZ9x3g1s) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
-| 34  | Elastic Load Balancing (ELB)     | 📖 [elb](https://docs.aws.amazon.com/elb) | ▶️ [Assistir](https://youtu.be/zm4kXgsiyBU) | ❔ [elb/faqs](https://aws.amazon.com/elb/faqs/)|
-| 35  | Amazon CloudFront                | 📖 [cloudfront](https://docs.aws.amazon.com/cloudfront) | ▶️ [Assistir](https://youtu.be/BB5_xLs8mIw) | ❔ [cloudfront/faqs](https://aws.amazon.com/cloudfront/faqs/)|
-| 36  | AWS Transit Gateway              | 📖 [transitgateway](https://docs.aws.amazon.com/transitgateway) | ▶️ [Assistir](https://youtu.be/JmC_yWBbZB0) | ❔ [transitgateway/faqs](https://aws.amazon.com/transitgateway/faqs/)|
+| 31  | Amazon VPC                       | 📖 [vpc](https://docs.aws.amazon.com/vpc) | ▶️ [Assistir](https://youtu.be/hiKPPy584Mg) | ❔ [vpc/faqs](https://aws.amazon.com/vpc/faqs/)|
+| 32  | AWS Direct Connect               | 📖 [directconnect](https://docs.aws.amazon.com/directconnect) | ▶️ [Assistir](https://youtu.be/y4rIwSbdlS0) | ❔ [directconnect/faqs](https://aws.amazon.com/directconnect/faqs/)|
+| 33  | Amazon Route 53                  | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [Assistir](https://youtu.be/RGWgfhZByAI) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
+| 34  | Elastic Load Balancing (ELB)     | 📖 [elb](https://docs.aws.amazon.com/elb) | ▶️ [Assistir](https://youtu.be/RGWgfhZByAI) | ❔ [elb/faqs](https://aws.amazon.com/elb/faqs/)|
+| 35  | Amazon CloudFront                | 📖 [cloudfront](https://docs.aws.amazon.com/cloudfront) | ▶️ [Assistir](https://youtu.be/AT-nHW3_SVI) | ❔ [cloudfront/faqs](https://aws.amazon.com/cloudfront/faqs/)|
+| 36  | AWS Transit Gateway              | 📖 [transitgateway](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html) | ▶️ [Assistir](https://youtu.be/JmC_yWBbZB0) | ❔ [transitgateway/faqs](https://aws.amazon.com/transitgateway/faqs/)|
 | 37  | Amazon API Gateway               | 📖 [apigateway](https://docs.aws.amazon.com/apigateway) | ▶️ [Assistir](https://youtu.be/LbIQqAqBy8Y) | ❔ [apigateway/faqs](https://aws.amazon.com/apigateway/faqs/)|
 | 38  | AWS Global Accelerator           | 📖 [globalaccelerator](https://docs.aws.amazon.com/globalaccelerator) | ▶️ [Assistir](https://youtu.be/jpAA9kGdrf8) | ❔ [globalaccelerator/faqs](https://aws.amazon.com/globalaccelerator/faqs/)|
 | 39  | Amazon PrivateLink               | 📖 [privatelink](https://docs.aws.amazon.com/privatelink) | ▶️ [Assistir](https://youtu.be/mnD3Q_0Khm0) | ❔ [privatelink/faqs](https://aws.amazon.com/privatelink/faqs/)|
