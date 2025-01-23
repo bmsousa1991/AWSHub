@@ -121,11 +121,11 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
-| 61  | AWS IAM                          | 📖 [iam](https://docs.aws.amazon.com/iam)       | ▶️ [Assistir](https://youtu.be/xyzIAM)     | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/) |
-| 62  | Amazon Cognito                   | 📖 [cognito](https://docs.aws.amazon.com/cognito) | ▶️ [Assistir](https://youtu.be/xyzCognito) | ❔ [cognito/faqs](https://aws.amazon.com/cognito/faqs/) |
-| 63  | AWS KMS                          | 📖 [kms](https://docs.aws.amazon.com/kms)         | ▶️ [Assistir](https://youtu.be/xyzKMS)     | ❔ [kms/faqs](https://aws.amazon.com/kms/faqs/) |
-| 64  | AWS Secrets Manager              | 📖 [secretsmanager](https://docs.aws.amazon.com/secretsmanager) | ▶️ [Assistir](https://youtu.be/xyzSecrets) | ❔ [secretsmanager/faqs](https://aws.amazon.com/secretsmanager/faqs/) |
-| 65  | AWS Shield                       | 📖 [shield](https://docs.aws.amazon.com/shield)   | ▶️ [Assistir](https://youtu.be/xyzShield)  | ❔ [shield/faqs](https://aws.amazon.com/shield/faqs/) |
+| 61  | AWS IAM                          | 📖 [iam](https://docs.aws.amazon.com/iam)       | ▶️ [Assistir](https://youtu.be/SXSqhTn2DuE)     | ❔ [iam/faqs](https://aws.amazon.com/iam/faqs/) |
+| 62  | Amazon Cognito                   | 📖 [cognito](https://docs.aws.amazon.com/cognito) | ▶️ [Assistir](https://youtu.be/vqAirwfYgrY) | ❔ [cognito/faqs](https://aws.amazon.com/cognito/faqs/) |
+| 63  | AWS KMS                          | 📖 [kms](https://docs.aws.amazon.com/kms)         | ▶️ [Assistir](https://youtu.be/8Z0wsE2HoSo)     | ❔ [kms/faqs](https://aws.amazon.com/pt/kms/faqs/) |
+| 64  | AWS Secrets Manager              | 📖 [secretsmanager](https://docs.aws.amazon.com/secretsmanager) | ▶️ [Assistir](https://youtu.be/-9nOyaM3kZk) | ❔ [secretsmanager/faqs](https://aws.amazon.com/pt/secrets-manager/faqs/) |
+| 65  | AWS Shield                       | 📖 [shield](https://docs.aws.amazon.com/shield)   | ▶️ [Assistir](https://youtu.be/7rgiXEa0_jE)  | ❔ [shield/faqs](https://aws.amazon.com/shield/faqs/) |
 | 66  | AWS GuardDuty                    | 📖 [guardduty](https://docs.aws.amazon.com/guardduty) | ▶️ [Assistir](https://youtu.be/xyzGuard)   | ❔ [guardduty/faqs](https://aws.amazon.com/guardduty/faqs/) |
 | 67  | AWS Config                       | 📖 [config](https://docs.aws.amazon.com/config)   | ▶️ [Assistir](https://youtu.be/xyzConfig)  | ❔ [config/faqs](https://aws.amazon.com/config/faqs/) |
 | 68  | AWS CloudTrail                   | 📖 [cloudtrail](https://docs.aws.amazon.com/cloudtrail) | ▶️ [Assistir](https://youtu.be/xyzTrail)   | ❔ [cloudtrail/faqs](https://aws.amazon.com/cloudtrail/faqs/) |
