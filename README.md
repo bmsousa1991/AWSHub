@@ -110,12 +110,12 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 52  | Amazon Rekognition               | 📖 [rekognition](https://docs.aws.amazon.com/rekognition) | ▶️ [Assistir](https://youtu.be/aMGdffpVHHE) | ❔ [rekognition/faqs](https://aws.amazon.com/rekognition/faqs/)|
 | 53  | Amazon Polly                     | 📖 [polly](https://docs.aws.amazon.com/polly) | ▶️ [Assistir](https://youtu.be/MKxE8_qQTFQ) | ❔ [polly/faqs](https://aws.amazon.com/polly/faqs/)|
 | 54  | Amazon Lex                       | 📖 [lex](https://docs.aws.amazon.com/lex) | ▶️ [Assistir](https://youtu.be/Q2yJf4bn5fQ) | ❔ [lex/faqs](https://aws.amazon.com/lex/faqs/)|
-| 55  | AWS Deep Learning AMIs           | 📖 [deeplearning](https://docs.aws.amazon.com/deeplearning) | ▶️ [Assistir](https://youtu.be/lmP72ljDI7k) | ❔ [deeplearning/faqs](https://aws.amazon.com/deeplearning/faqs/)|
-| 56  | AWS Comprehend                   | 📖 [comprehend](https://docs.aws.amazon.com/comprehend) | ▶️ [Assistir](https://youtu.be/_JLwV-PaWdo) | ❔ [comprehend/faqs](https://aws.amazon.com/comprehend/faqs/)|
-| 57  | AWS Translate                    | 📖 [translate](https://docs.aws.amazon.com/translate) | ▶️ [Assistir](https://youtu.be/I_d1FJrdcEw) | ❔ [translate/faqs](https://aws.amazon.com/translate/faqs/)|
-| 58  | AWS Transcribe                   | 📖 [transcribe](https://docs.aws.amazon.com/transcribe) | ▶️ [Assistir](https://youtu.be/JW7fSbxsKcQ) | ❔ [transcribe/faqs](https://aws.amazon.com/transcribe/faqs/)|
-| 59  | Amazon Personalize               | 📖 [personalize](https://docs.aws.amazon.com/personalize) | ▶️ [Assistir](https://youtu.be/kDtj3sVEq60) | ❔ [personalize/faqs](https://aws.amazon.com/personalize/faqs/)|
-| 60  | Amazon Forecast                  | 📖 [forecast](https://docs.aws.amazon.com/forecast) | ▶️ [Assistir](https://youtu.be/P8kVGz43EQk) | ❔ [forecast/faqs](https://aws.amazon.com/forecast/faqs/)|
+| 55  | AWS Deep Learning AMIs           | 📖 [deeplearning](https://docs.aws.amazon.com/pt_br/dlami/latest/devguide/what-is-dlami.html) | ▶️ [Assistir](https://youtu.be/EhExK4JgXvE) | ❔ [deeplearning/faqs](https://aws.amazon.com/pt/ai/machine-learning/amis/)|
+| 56  | AWS Comprehend                   | 📖 [comprehend](https://docs.aws.amazon.com/comprehend) | ▶️ [Assistir](https://youtu.be/BKgTJCJ0eGg) | ❔ [comprehend/faqs](https://aws.amazon.com/comprehend/faqs/)|
+| 57  | AWS Translate                    | 📖 [translate](https://docs.aws.amazon.com/translate) | ▶️ [Assistir](https://youtu.be/k9rBj6IP9-M) | ❔ [translate/faqs](https://aws.amazon.com/translate/faqs/)|
+| 58  | AWS Transcribe                   | 📖 [transcribe](https://docs.aws.amazon.com/transcribe) | ▶️ [Assistir](https://youtu.be/zD8NMw4T1TI) | ❔ [transcribe/faqs](https://aws.amazon.com/transcribe/faqs/)|
+| 59  | Amazon Personalize               | 📖 [personalize](https://docs.aws.amazon.com/personalize) | ▶️ [Assistir](https://youtu.be/T87I563uEjo) | ❔ [personalize/faqs](https://aws.amazon.com/personalize/faqs/)|
+| 60  | Amazon Forecast                  | 📖 [forecast](https://docs.aws.amazon.com/forecast) | ▶️ [Assistir](https://youtu.be/Ed4j8Olf_E8) | ❔ [forecast/faqs](https://aws.amazon.com/forecast/faqs/)|
 
 #### Segurança, Identidade e Compliance
 
