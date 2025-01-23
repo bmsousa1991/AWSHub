@@ -82,11 +82,11 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 33  | Amazon Route 53                  | 📖 [route53](https://docs.aws.amazon.com/route53) | ▶️ [Assistir](https://youtu.be/RGWgfhZByAI) | ❔ [route53/faqs](https://aws.amazon.com/route53/faqs/)|
 | 34  | Elastic Load Balancing (ELB)     | 📖 [elb](https://docs.aws.amazon.com/elasticloadbalancing/) | ▶️ [Assistir](https://youtu.be/YXyMDNcxHkc) | ❔ [elb/faqs](https://aws.amazon.com/pt/elasticloadbalancing/faqs/)|
 | 35  | Amazon CloudFront                | 📖 [cloudfront](https://docs.aws.amazon.com/cloudfront) | ▶️ [Assistir](https://youtu.be/AT-nHW3_SVI) | ❔ [cloudfront/faqs](https://aws.amazon.com/cloudfront/faqs/)|
-| 36  | AWS Transit Gateway              | 📖 [transitgateway](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html) | ▶️ [Assistir](https://youtu.be/JmC_yWBbZB0) | ❔ [transitgateway/faqs](https://aws.amazon.com/transitgateway/faqs/)|
-| 37  | Amazon API Gateway               | 📖 [apigateway](https://docs.aws.amazon.com/apigateway) | ▶️ [Assistir](https://youtu.be/LbIQqAqBy8Y) | ❔ [apigateway/faqs](https://aws.amazon.com/apigateway/faqs/)|
-| 38  | AWS Global Accelerator           | 📖 [globalaccelerator](https://docs.aws.amazon.com/globalaccelerator) | ▶️ [Assistir](https://youtu.be/jpAA9kGdrf8) | ❔ [globalaccelerator/faqs](https://aws.amazon.com/globalaccelerator/faqs/)|
-| 39  | Amazon PrivateLink               | 📖 [privatelink](https://docs.aws.amazon.com/privatelink) | ▶️ [Assistir](https://youtu.be/mnD3Q_0Khm0) | ❔ [privatelink/faqs](https://aws.amazon.com/privatelink/faqs/)|
-| 40  | AWS WAF                          | 📖 [waf](https://docs.aws.amazon.com/waf) | ▶️ [Assistir](https://youtu.be/6NdT3mhr7Ns) | ❔ [waf/faqs](https://aws.amazon.com/waf/faqs/)|
+| 36  | AWS Transit Gateway              | 📖 [transitgateway](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html) | ▶️ [Assistir](https://youtu.be/xlTHkoKR-Os) | ❔ [transitgateway/faqs](https://aws.amazon.com/pt/transit-gateway/faqs/)|
+| 37  | Amazon API Gateway               | 📖 [apigateway](https://docs.aws.amazon.com/apigateway) | ▶️ [Assistir](https://youtu.be/XwfpPEFHKtQ) | ❔ [apigateway/faqs](https://aws.amazon.com/pt/api-gateway/faqs/)|
+| 38  | AWS Global Accelerator           | 📖 [globalaccelerator](https://docs.aws.amazon.com/global-accelerator/) | ▶️ [Assistir](https://youtu.be/Docl4julOQw) | ❔ [globalaccelerator/faqs](https://aws.amazon.com/pt/global-accelerator/faqs/)|
+| 39  | Amazon PrivateLink               | 📖 [privatelink](https://docs.aws.amazon.com/pt_br/vpc/latest/privatelink/what-is-privatelink.html) | ▶️ [Assistir](https://youtu.be/_mHLkFeTuFo) | ❔ [privatelink/faqs](https://aws.amazon.com/privatelink/faqs/)|
+| 40  | AWS WAF                          | 📖 [waf](https://docs.aws.amazon.com/waf) | ▶️ [Assistir](https://youtu.be/nUI7G9UzyN8) | ❔ [waf/faqs](https://aws.amazon.com/waf/faqs/)|
 
 #### Análise e Big Data
 
