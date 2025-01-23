@@ -58,10 +58,9 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 15  | Amazon Glacier                | 📖 [glacier](https://docs.aws.amazon.com/glacier) | ▶️ [Assistir](https://youtu.be/gMzVi7Z8zBo) | ❔ [glacier/faqs](https://aws.amazon.com/glacier/faqs/)|
 | 16  | AWS Backup                    | 📖 [backup](https://docs.aws.amazon.com/aws-backup/) | ▶️ [Assistir](https://youtu.be/xD0FRjY9ujY) | ❔ [backup/faqs](https://aws.amazon.com/backup/faqs/)|
 | 17  | Amazon S3 Glacier Deep Archive| 📖 [s3glacier](https://docs.aws.amazon.com/AmazonS3/latest/userguide/glacier-storage-classes.html) | ▶️ [Assistir](https://youtu.be/XA-pZaDLTqY) | ❔ [s3glacier/faqs](https://aws.amazon.com/glacier/faqs/)|
-| 18  | AWS Snowball                  | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/Rs_1P7qQ24I) | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/)|
-| 19  | AWS Storage Gateway           | 📖 [storagegateway](https://docs.aws.amazon.com/storagegateway) | ▶️ [Assistir](https://youtu.be/Nt9fi3neFUo) | ❔ [storagegateway/faqs](https://aws.amazon.com/storagegateway/faqs/)|
-| 20  | Amazon Elastic File System (EFS)| 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/pAH0f6BQPKY) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
-
+| 18  | AWS Snowball                  | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/bxSD1Nha2k8) | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/)|
+| 19  | AWS Storage Gateway           | 📖 [storagegateway](https://docs.aws.amazon.com/storagegateway) | ▶️ [Assistir](https://youtu.be/XXQNXwx8nfE) | ❔ [storagegateway/faqs](https://aws.amazon.com/storagegateway/faqs/)|
+| 20  | Amazon Elastic File System (EFS)| 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/vAV4ASDnbN0) | ❔ [efs/faqs](https://aws.amazon.com/pt/efs/faq/)|
 #### Banco de Dados
 
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
