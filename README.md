@@ -126,11 +126,11 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 63  | AWS KMS                          | 📖 [kms](https://docs.aws.amazon.com/kms)         | ▶️ [Assistir](https://youtu.be/8Z0wsE2HoSo)     | ❔ [kms/faqs](https://aws.amazon.com/pt/kms/faqs/) |
 | 64  | AWS Secrets Manager              | 📖 [secretsmanager](https://docs.aws.amazon.com/secretsmanager) | ▶️ [Assistir](https://youtu.be/-9nOyaM3kZk) | ❔ [secretsmanager/faqs](https://aws.amazon.com/pt/secrets-manager/faqs/) |
 | 65  | AWS Shield                       | 📖 [shield](https://docs.aws.amazon.com/shield)   | ▶️ [Assistir](https://youtu.be/7rgiXEa0_jE)  | ❔ [shield/faqs](https://aws.amazon.com/shield/faqs/) |
-| 66  | AWS GuardDuty                    | 📖 [guardduty](https://docs.aws.amazon.com/guardduty) | ▶️ [Assistir](https://youtu.be/xyzGuard)   | ❔ [guardduty/faqs](https://aws.amazon.com/guardduty/faqs/) |
-| 67  | AWS Config                       | 📖 [config](https://docs.aws.amazon.com/config)   | ▶️ [Assistir](https://youtu.be/xyzConfig)  | ❔ [config/faqs](https://aws.amazon.com/config/faqs/) |
-| 68  | AWS CloudTrail                   | 📖 [cloudtrail](https://docs.aws.amazon.com/cloudtrail) | ▶️ [Assistir](https://youtu.be/xyzTrail)   | ❔ [cloudtrail/faqs](https://aws.amazon.com/cloudtrail/faqs/) |
-| 69  | AWS Inspector                    | 📖 [inspector](https://docs.aws.amazon.com/inspector) | ▶️ [Assistir](https://youtu.be/xyzInspect) | ❔ [inspector/faqs](https://aws.amazon.com/inspector/faqs/) |
-| 70  | AWS Security Hub                 | 📖 [securityhub](https://docs.aws.amazon.com/securityhub) | ▶️ [Assistir](https://youtu.be/xyzHub)     | ❔ [securityhub/faqs](https://aws.amazon.com/securityhub/faqs/) |
+| 66  | AWS GuardDuty                    | 📖 [guardduty](https://docs.aws.amazon.com/guardduty) | ▶️ [Assistir](https://youtu.be/ng14ToMXnTA)   | ❔ [guardduty/faqs](https://aws.amazon.com/guardduty/faqs/) |
+| 67  | AWS Config                       | 📖 [config](https://docs.aws.amazon.com/config)   | ▶️ [Assistir](https://youtu.be/MJDuAvNEv64)  | ❔ [config/faqs](https://aws.amazon.com/config/faqs/) |
+| 68  | AWS CloudTrail                   | 📖 [cloudtrail](https://docs.aws.amazon.com/cloudtrail) | ▶️ [Assistir](https://youtu.be/mXQSnbc9jMs)   | ❔ [cloudtrail/faqs](https://aws.amazon.com/cloudtrail/faqs/) |
+| 69  | AWS Inspector                    | 📖 [inspector](https://docs.aws.amazon.com/inspector) | ▶️ [Assistir](https://youtu.be/wi1PDr9n67Y) | ❔ [inspector/faqs](https://aws.amazon.com/inspector/faqs/) |
+| 70  | AWS Security Hub                 | 📖 [securityhub](https://docs.aws.amazon.com/securityhub) | ▶️ [Assistir](https://youtu.be/oBac-GAoZJ8)     | ❔ [securityhub/faqs](https://aws.amazon.com/securityhub/faqs/) |
 
 #### Ferramentas de Desenvolvedor e DevOps
 
