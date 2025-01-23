@@ -22,7 +22,7 @@
 
 Esta seção fornece links para documentação detalhada, vídeos introdutórios e FAQs dos serviços populares da AWS.
 
-- **Total de serviços cobertos:** **42**
+- **Total de serviços cobertos:** **100**
 - **Documentação AWS:** Documentação oficial para cada serviço
 - **FAQs da AWS:** Perguntas frequentes sobre os serviços AWS
 - **Introdução (YouTube):** Vídeos curtos (~2min) com animações, música e diagramas  
@@ -32,7 +32,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 ## Tabela Completa de Recursos de Aprendizado de Serviços AWS
 
-### Computação
+#### Computação
 
 | ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------|------------------|------------|--------------------------|
@@ -47,14 +47,14 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 9   | Amazon EMR                    | 📖 [emr](https://docs.aws.amazon.com/emr) | ▶️ [Assistir](https://youtu.be/Xw_T-hlCrBw) | ❔ [emr/faqs](https://aws.amazon.com/emr/faqs/)|
 | 10  | Amazon Batch                  | 📖 [batch](https://docs.aws.amazon.com/batch) | ▶️ [Assistir](https://youtu.be/j_iI1DzSi5g) | ❔ [batch/faqs](https://aws.amazon.com/batch/faqs/)|
 
-### Armazenamento
+#### Armazenamento
 
 | ID  | Nome do Serviço               | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------|------------------|------------|--------------------------|
-| 11  | Amazon S3                     | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [Assistir](https://youtu.be/sBzJ3hx3GJQ) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
-| 12  | Amazon EBS                    | 📖 [ebs](https://docs.aws.amazon.com/ebs) | ▶️ [Assistir](https://youtu.be/YYL3cOJwouU) | ❔ [ebs/faqs](https://aws.amazon.com/ebs/faqs/)|
-| 13  | Amazon EFS                    | 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/pAH0f6BQPKY) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
-| 14  | Amazon FSx                    | 📖 [fsx](https://docs.aws.amazon.com/fsx) | ▶️ [Assistir](https://youtu.be/C1_M_G7s7n0) | ❔ [fsx/faqs](https://aws.amazon.com/fsx/faqs/)|
+| 11  | Amazon S3                     | 📖 [s3](https://docs.aws.amazon.com/s3) | ▶️ [Assistir](https://youtu.be/ecv-19sYL3w) | ❔ [s3/faqs](https://aws.amazon.com/s3/faqs/)|
+| 12  | Amazon EBS                    | 📖 [ebs](https://docs.aws.amazon.com/ebs) | ▶️ [Assistir](https://youtu.be/77qLAl-lRpo) | ❔ [ebs/faqs](https://aws.amazon.com/ebs/faqs/)|
+| 13  | Amazon EFS                    | 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/vAV4ASDnbN0) | ❔ [efs/faqs](https://aws.amazon.com/pt/efs/faq/)|
+| 14  | Amazon FSx                    | 📖 [fsx](https://docs.aws.amazon.com/fsx) | ▶️ [Assistir](https://youtu.be/2MefyahWOq4) | ❔ [fsx/faqs](https://aws.amazon.com/pt/fsx/windows/faqs/)|
 | 15  | Amazon Glacier                | 📖 [glacier](https://docs.aws.amazon.com/glacier) | ▶️ [Assistir](https://youtu.be/6qqzdZxTq28) | ❔ [glacier/faqs](https://aws.amazon.com/glacier/faqs/)|
 | 16  | AWS Backup                    | 📖 [backup](https://docs.aws.amazon.com/backup) | ▶️ [Assistir](https://youtu.be/PhgItfNC4X0) | ❔ [backup/faqs](https://aws.amazon.com/backup/faqs/)|
 | 17  | Amazon S3 Glacier Deep Archive| 📖 [s3glacier](https://docs.aws.amazon.com/s3/glacier) | ▶️ [Assistir](https://youtu.be/7xwDOh_QHLw) | ❔ [s3glacier/faqs](https://aws.amazon.com/glacier/faqs/)|
@@ -62,7 +62,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 19  | AWS Storage Gateway           | 📖 [storagegateway](https://docs.aws.amazon.com/storagegateway) | ▶️ [Assistir](https://youtu.be/Nt9fi3neFUo) | ❔ [storagegateway/faqs](https://aws.amazon.com/storagegateway/faqs/)|
 | 20  | Amazon Elastic File System (EFS)| 📖 [efs](https://docs.aws.amazon.com/efs) | ▶️ [Assistir](https://youtu.be/pAH0f6BQPKY) | ❔ [efs/faqs](https://aws.amazon.com/efs/faqs/)|
 
-### Banco de Dados
+#### Banco de Dados
 
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
@@ -77,7 +77,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 29  | Amazon Keyspaces                 | 📖 [keyspaces](https://docs.aws.amazon.com/keyspaces) | ▶️ [Assistir](https://youtu.be/SvEnPiWuqjE) | ❔ [keyspaces/faqs](https://aws.amazon.com/keyspaces/faqs/)|
 | 30  | Amazon QLDB                      | 📖 [qldb](https://docs.aws.amazon.com/qldb) | ▶️ [Assistir](https://youtu.be/JybHaHSmF9Y) | ❔ [qldb/faqs](https://aws.amazon.com/qldb/faqs/)|
 
-### Redes e CDN
+#### Redes e CDN
 
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
@@ -92,7 +92,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 39  | Amazon PrivateLink               | 📖 [privatelink](https://docs.aws.amazon.com/privatelink) | ▶️ [Assistir](https://youtu.be/mnD3Q_0Khm0) | ❔ [privatelink/faqs](https://aws.amazon.com/privatelink/faqs/)|
 | 40  | AWS WAF                          | 📖 [waf](https://docs.aws.amazon.com/waf) | ▶️ [Assistir](https://youtu.be/6NdT3mhr7Ns) | ❔ [waf/faqs](https://aws.amazon.com/waf/faqs/)|
 
-### Análise e Big Data
+#### Análise e Big Data
 
 | ID  | Nome do Serviço                     | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|-------------------------------------|------------------|------------|--------------------------|
@@ -107,7 +107,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 49  | AWS Lake Formation                  | 📖 [lakeformation](https://docs.aws.amazon.com/lakeformation) | ▶️ [Assistir](https://youtu.be/7NR8TUpG1Bw) | ❔ [lakeformation/faqs](https://aws.amazon.com/lakeformation/faqs/)|
 | 50  | AWS DataSync                        | 📖 [datasync](https://docs.aws.amazon.com/datasync) | ▶️ [Assistir](https://youtu.be/uod7vGs3hEs) | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/)|
 
-### Inteligência Artificial e Machine Learning
+#### Inteligência Artificial e Machine Learning
 
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
@@ -122,7 +122,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 59  | Amazon Personalize               | 📖 [personalize](https://docs.aws.amazon.com/personalize) | ▶️ [Assistir](https://youtu.be/kDtj3sVEq60) | ❔ [personalize/faqs](https://aws.amazon.com/personalize/faqs/)|
 | 60  | Amazon Forecast                  | 📖 [forecast](https://docs.aws.amazon.com/forecast) | ▶️ [Assistir](https://youtu.be/P8kVGz43EQk) | ❔ [forecast/faqs](https://aws.amazon.com/forecast/faqs/)|
 
-### Segurança, Identidade e Compliance
+#### Segurança, Identidade e Compliance
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
@@ -137,7 +137,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 69  | AWS Inspector                    | 📖 [inspector](https://docs.aws.amazon.com/inspector) | ▶️ [Assistir](https://youtu.be/xyzInspect) | ❔ [inspector/faqs](https://aws.amazon.com/inspector/faqs/) |
 | 70  | AWS Security Hub                 | 📖 [securityhub](https://docs.aws.amazon.com/securityhub) | ▶️ [Assistir](https://youtu.be/xyzHub)     | ❔ [securityhub/faqs](https://aws.amazon.com/securityhub/faqs/) |
 
-### Ferramentas de Desenvolvedor e DevOps
+#### Ferramentas de Desenvolvedor e DevOps
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
@@ -152,7 +152,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 79  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation) | ▶️ [Assistir](https://youtu.be/xyzForm)  | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/) |
 | 80  | AWS OpsWorks                    | 📖 [opsworks](https://docs.aws.amazon.com/opsworks) | ▶️ [Assistir](https://youtu.be/xyzOps)    | ❔ [opsworks/faqs](https://aws.amazon.com/opsworks/faqs/) |
 
-### IoT (Internet of Things)
+#### IoT (Internet of Things)
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
@@ -162,7 +162,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 84  | AWS IoT Device Management       | 📖 [iotdevicemgmt](https://docs.aws.amazon.com/iotdevicemgmt) | ▶️ [Assistir](https://youtu.be/xyzDevice) | ❔ [iotdevicemgmt/faqs](https://aws.amazon.com/iotdevicemgmt/faqs/) |
 | 85  | AWS IoT Events                  | 📖 [iotevents](https://docs.aws.amazon.com/iotevents) | ▶️ [Assistir](https://youtu.be/xyzEvents) | ❔ [iotevents/faqs](https://aws.amazon.com/iotevents/faqs/) |
 
-### Migration e Transferência
+#### Migration e Transferência
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
@@ -176,7 +176,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 93  | AWS Import/Export Snowcone      | 📖 [snowcone](https://docs.aws.amazon.com/snowcone) | ▶️ [Assistir](https://youtu.be/xyzCone)    | ❔ [snowcone/faqs](https://aws.amazon.com/snowcone/faqs/) |
 | 94  | AWS Transfer Family             | 📖 [transferfamily](https://docs.aws.amazon.com/transferfamily) | ▶️ [Assistir](https://youtu.be/xyzFamily) | ❔ [transferfamily/faqs](https://aws.amazon.com/transferfamily/faqs/) |
 
-### Gerenciamento e Governança
+#### Gerenciamento e Governança
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
