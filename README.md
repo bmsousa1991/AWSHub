@@ -130,17 +130,17 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 67  | AWS Config                       | 📖 [config](https://docs.aws.amazon.com/config)   | ▶️ [Assistir](https://youtu.be/MJDuAvNEv64)  | ❔ [config/faqs](https://aws.amazon.com/config/faqs/) |
 | 68  | AWS CloudTrail                   | 📖 [cloudtrail](https://docs.aws.amazon.com/cloudtrail) | ▶️ [Assistir](https://youtu.be/mXQSnbc9jMs)   | ❔ [cloudtrail/faqs](https://aws.amazon.com/cloudtrail/faqs/) |
 | 69  | AWS Inspector                    | 📖 [inspector](https://docs.aws.amazon.com/inspector) | ▶️ [Assistir](https://youtu.be/wi1PDr9n67Y) | ❔ [inspector/faqs](https://aws.amazon.com/inspector/faqs/) |
-| 70  | AWS Security Hub                 | 📖 [securityhub](https://docs.aws.amazon.com/securityhub) | ▶️ [Assistir](https://youtu.be/oBac-GAoZJ8)     | ❔ [securityhub/faqs](https://aws.amazon.com/securityhub/faqs/) |
+| 70  | AWS Security Hub                 | 📖 [securityhub](https://docs.aws.amazon.com/securityhub) | ▶️ [Assistir](https://youtu.be/oBac-GAoZJ8)     | ❔ [securityhub/faqs](https://aws.amazon.com/pt/security-hub/faqs/) |
 
 #### Ferramentas de Desenvolvedor e DevOps
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
-| 71  | AWS CodeCommit                  | 📖 [codecommit](https://docs.aws.amazon.com/codecommit) | ▶️ [Assistir](https://youtu.be/xyzCommit) | ❔ [codecommit/faqs](https://aws.amazon.com/codecommit/faqs/) |
-| 72  | AWS CodeDeploy                  | 📖 [codedeploy](https://docs.aws.amazon.com/codedeploy) | ▶️ [Assistir](https://youtu.be/xyzDeploy) | ❔ [codedeploy/faqs](https://aws.amazon.com/codedeploy/faqs/) |
-| 73  | AWS CodePipeline                | 📖 [codepipeline](https://docs.aws.amazon.com/codepipeline) | ▶️ [Assistir](https://youtu.be/xyzPipe)   | ❔ [codepipeline/faqs](https://aws.amazon.com/codepipeline/faqs/) |
-| 74  | AWS CodeBuild                   | 📖 [codebuild](https://docs.aws.amazon.com/codebuild) | ▶️ [Assistir](https://youtu.be/xyzBuild)   | ❔ [codebuild/faqs](https://aws.amazon.com/codebuild/faqs/) |
-| 75  | AWS Cloud9                      | 📖 [cloud9](https://docs.aws.amazon.com/cloud9)     | ▶️ [Assistir](https://youtu.be/xyzCloud9) | ❔ [cloud9/faqs](https://aws.amazon.com/cloud9/faqs/) |
+| 71  | AWS CodeCommit                  | 📖 [codecommit](https://docs.aws.amazon.com/codecommit) | ▶️ [Assistir](https://youtu.be/SWqh7LvxKqI) | ❔ [codecommit/faqs](https://aws.amazon.com/codecommit/faqs/) |
+| 72  | AWS CodeDeploy                  | 📖 [codedeploy](https://docs.aws.amazon.com/codedeploy) | ▶️ [Assistir](https://youtu.be/jcR9iIWdU7E) | ❔ [codedeploy/faqs](https://aws.amazon.com/codedeploy/faqs/) |
+| 73  | AWS CodePipeline                | 📖 [codepipeline](https://docs.aws.amazon.com/codepipeline) | ▶️ [Assistir](https://youtu.be/YxcIj_SLflw)   | ❔ [codepipeline/faqs](https://aws.amazon.com/codepipeline/faqs/) |
+| 74  | AWS CodeBuild                   | 📖 [codebuild](https://docs.aws.amazon.com/codebuild) | ▶️ [Assistir](https://youtu.be/iEhKcDaNYrs)   | ❔ [codebuild/faqs](https://aws.amazon.com/codebuild/faqs/) |
+| 75  | AWS Cloud9                      | 📖 [cloud9](https://docs.aws.amazon.com/cloud9)     | ▶️ [Assistir](https://youtu.be/JDHZOGMMkj8) | ❔ [cloud9/faqs](https://aws.amazon.com/cloud9/faqs/) |
 | 76  | Amazon CloudWatch               | 📖 [cloudwatch](https://docs.aws.amazon.com/cloudwatch) | ▶️ [Assistir](https://youtu.be/xyzWatch)  | ❔ [cloudwatch/faqs](https://aws.amazon.com/cloudwatch/faqs/) |
 | 77  | AWS X-Ray                       | 📖 [xray](https://docs.aws.amazon.com/xray)         | ▶️ [Assistir](https://youtu.be/xyzXRay)   | ❔ [xray/faqs](https://aws.amazon.com/xray/faqs/) |
 | 78  | AWS Elastic Beanstalk           | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk) | ▶️ [Assistir](https://youtu.be/xyzBean) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/) |
