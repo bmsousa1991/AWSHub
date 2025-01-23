@@ -65,10 +65,10 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
-| 21  | Amazon RDS                       | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [Assistir](https://youtu.be/WqlwHs1h20U) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
-| 22  | Amazon DynamoDB                  | 📖 [dynamodb](https://docs.aws.amazon.com/dynamodb) | ▶️ [Assistir](https://youtu.be/8ODc2XKTEqY) | ❔ [dynamodb/faqs](https://aws.amazon.com/dynamodb/faqs/)|
-| 23  | Amazon Aurora                    | 📖 [aurora](https://docs.aws.amazon.com/aurora) | ▶️ [Assistir](https://youtu.be/nBOZ5f6g8ZE) | ❔ [aurora/faqs](https://aws.amazon.com/aurora/faqs/)|
-| 24  | Amazon Redshift                  | 📖 [redshift](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/QdkGcmZCnWo) | ❔ [redshift/faqs](https://aws.amazon.com/redshift/faqs/)|
+| 21  | Amazon RDS                       | 📖 [rds](https://docs.aws.amazon.com/rds) | ▶️ [Assistir](https://youtu.be/GvUaA9cygUk) | ❔ [rds/faqs](https://aws.amazon.com/rds/faqs/)|
+| 22  | Amazon DynamoDB                  | 📖 [dynamodb](https://docs.aws.amazon.com/dynamodb) | ▶️ [Assistir](https://youtu.be/sI-zciHAh-4) | ❔ [dynamodb/faqs](https://aws.amazon.com/dynamodb/faqs/)|
+| 23  | Amazon Aurora                    | 📖 [aurora](https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html) | ▶️ [Assistir](https://youtu.be/xKFA6PJgp0o) | ❔ [aurora/faqs](https://aws.amazon.com/aurora/faqs/)|
+| 24  | Amazon Redshift                  | 📖 [redshift](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/8b58xGDHIog) | ❔ [redshift/faqs](https://aws.amazon.com/redshift/faqs/)|
 | 25  | Amazon Neptune                   | 📖 [neptune](https://docs.aws.amazon.com/neptune) | ▶️ [Assistir](https://youtu.be/t_dGbrE0vAQ) | ❔ [neptune/faqs](https://aws.amazon.com/neptune/faqs/)|
 | 26  | Amazon ElastiCache               | 📖 [elasticache](https://docs.aws.amazon.com/elasticache) | ▶️ [Assistir](https://youtu.be/b-dMZAit06o) | ❔ [elasticache/faqs](https://aws.amazon.com/elasticache/faqs/)|
 | 27  | Amazon DocumentDB                | 📖 [documentdb](https://docs.aws.amazon.com/documentdb) | ▶️ [Assistir](https://youtu.be/tAhV3suqSMo) | ❔ [documentdb/faqs](https://aws.amazon.com/documentdb/faqs/)|
