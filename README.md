@@ -98,13 +98,12 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 44  | Amazon QuickSight                   | 📖 [quicksight](https://docs.aws.amazon.com/quicksight) | ▶️ [Assistir](https://youtu.be/2V1bHRLRG-w) | ❔ [quicksight/faqs](https://aws.amazon.com/quicksight/faqs/)|
 | 45  | AWS Glue                            | 📖 [glue](https://docs.aws.amazon.com/glue) | ▶️ [Assistir](https://youtu.be/u14iVEc-C6E) | ❔ [glue/faqs](https://aws.amazon.com/glue/faqs/)|
 | 46  | Amazon Elasticsearch Service        | 📖 [elasticsearch](https://docs.aws.amazon.com/opensearch-service/) | ▶️ [Assistir](https://youtu.be/4Zw1IOxW-oA) | ❔ [elasticsearch/faqs](https://aws.amazon.com/pt/opensearch-service/faqs/)|
-| 47  | Amazon Redshift Spectrum            | 📖 [redshift-spectrum](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/qfTovWYXKPM) | ❔ [redshift-spectrum/faqs](https://aws.amazon.com/redshift/faqs/)|
-| 48  | AWS Data Pipeline                   | 📖 [datapipeline](https://docs.aws.amazon.com/datapipeline) | ▶️ [Assistir](https://youtu.be/QZ0vxnVZKv8) | ❔ [datapipeline/faqs](https://aws.amazon.com/datapipeline/faqs/)|
-| 49  | AWS Lake Formation                  | 📖 [lakeformation](https://docs.aws.amazon.com/lakeformation) | ▶️ [Assistir](https://youtu.be/7NR8TUpG1Bw) | ❔ [lakeformation/faqs](https://aws.amazon.com/lakeformation/faqs/)|
-| 50  | AWS DataSync                        | 📖 [datasync](https://docs.aws.amazon.com/datasync) | ▶️ [Assistir](https://youtu.be/uod7vGs3hEs) | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/)|
+| 47  | Amazon Redshift Spectrum            | 📖 [redshift-spectrum](https://docs.aws.amazon.com/redshift) | ▶️ [Assistir](https://youtu.be/XMGqabZTqz0) | ❔ [redshift-spectrum/faqs](https://aws.amazon.com/redshift/faqs/)|
+| 48  | AWS Data Pipeline                   | 📖 [datapipeline](https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/what-is-datapipeline.html) | ▶️ [Assistir](https://youtu.be/0qAoKh3ghLI) | ❔ [datapipeline/faqs](https://aws.amazon.com/pt/codepipeline/faqs/)|
+| 49  | AWS Lake Formation                  | 📖 [lakeformation](https://docs.aws.amazon.com/lake-formation/) | ▶️ [Assistir](https://youtu.be/MJ9_hsCk52w) | ❔ [lakeformation/faqs](https://aws.amazon.com/pt/lake-formation/faqs/)|
+| 50  | AWS DataSync                        | 📖 [datasync](https://docs.aws.amazon.com/datasync) | ▶️ [Assistir](https://youtu.be/_qhTF-gB-JE) | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/)|
 
 #### Inteligência Artificial e Machine Learning
-
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
 | 51  | Amazon SageMaker                 | 📖 [sagemaker](https://docs.aws.amazon.com/sagemaker) | ▶️ [Assistir](https://youtu.be/eC_X2oT3PBg) | ❔ [sagemaker/faqs](https://aws.amazon.com/sagemaker/faqs/)|
