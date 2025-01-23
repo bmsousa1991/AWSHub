@@ -141,11 +141,11 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 73  | AWS CodePipeline                | 📖 [codepipeline](https://docs.aws.amazon.com/codepipeline) | ▶️ [Assistir](https://youtu.be/YxcIj_SLflw)   | ❔ [codepipeline/faqs](https://aws.amazon.com/codepipeline/faqs/) |
 | 74  | AWS CodeBuild                   | 📖 [codebuild](https://docs.aws.amazon.com/codebuild) | ▶️ [Assistir](https://youtu.be/iEhKcDaNYrs)   | ❔ [codebuild/faqs](https://aws.amazon.com/codebuild/faqs/) |
 | 75  | AWS Cloud9                      | 📖 [cloud9](https://docs.aws.amazon.com/cloud9)     | ▶️ [Assistir](https://youtu.be/JDHZOGMMkj8) | ❔ [cloud9/faqs](https://aws.amazon.com/cloud9/faqs/) |
-| 76  | Amazon CloudWatch               | 📖 [cloudwatch](https://docs.aws.amazon.com/cloudwatch) | ▶️ [Assistir](https://youtu.be/xyzWatch)  | ❔ [cloudwatch/faqs](https://aws.amazon.com/cloudwatch/faqs/) |
-| 77  | AWS X-Ray                       | 📖 [xray](https://docs.aws.amazon.com/xray)         | ▶️ [Assistir](https://youtu.be/xyzXRay)   | ❔ [xray/faqs](https://aws.amazon.com/xray/faqs/) |
-| 78  | AWS Elastic Beanstalk           | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/elasticbeanstalk) | ▶️ [Assistir](https://youtu.be/xyzBean) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/) |
-| 79  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation) | ▶️ [Assistir](https://youtu.be/xyzForm)  | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/) |
-| 80  | AWS OpsWorks                    | 📖 [opsworks](https://docs.aws.amazon.com/opsworks) | ▶️ [Assistir](https://youtu.be/xyzOps)    | ❔ [opsworks/faqs](https://aws.amazon.com/opsworks/faqs/) |
+| 76  | Amazon CloudWatch               | 📖 [cloudwatch](https://docs.aws.amazon.com/cloudwatch) | ▶️ [Assistir](https://youtu.be/a4dhoTQCyRA)  | ❔ [cloudwatch/faqs](https://aws.amazon.com/cloudwatch/faqs/) |
+| 77  | AWS X-Ray                       | 📖 [xray](https://docs.aws.amazon.com/xray)         | ▶️ [Assistir](https://youtu.be/5lIdNrrO_o8)   | ❔ [xray/faqs](https://aws.amazon.com/xray/faqs/) |
+| 78  | AWS Elastic Beanstalk           | 📖 [elasticbeanstalk](https://docs.aws.amazon.com/pt_br/elastic-beanstalk/) | ▶️ [Assistir](https://youtu.be/uiM1xzOX8Qg) | ❔ [elasticbeanstalk/faqs](https://aws.amazon.com/elasticbeanstalk/faqs/) |
+| 79  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation) | ▶️ [Assistir](https://youtu.be/1h-GPXQrLZw)  | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/) |
+| 80  | AWS OpsWorks                    | 📖 [opsworks](https://docs.aws.amazon.com/opsworks) | ▶️ [Assistir](https://youtu.be/5xlqk9bFkYM)    | ❔ [opsworks/faqs](https://aws.amazon.com/opsworks/faqs/) |
 
 #### IoT (Internet of Things)
 
