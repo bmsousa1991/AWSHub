@@ -151,11 +151,11 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 
 | ID  | Nome do Serviço                  | Documentação AWS                                   | Introdução                                  | Perguntas Frequentes AWS                        |
 |-----|----------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------------------------|
-| 81  | AWS IoT Core                    | 📖 [iotcore](https://docs.aws.amazon.com/iotcore) | ▶️ [Assistir](https://youtu.be/xyzIoTCore)| ❔ [iotcore/faqs](https://aws.amazon.com/iotcore/faqs/) |
-| 82  | AWS IoT Greengrass              | 📖 [iotgreengrass](https://docs.aws.amazon.com/iotgreengrass) | ▶️ [Assistir](https://youtu.be/xyzGreen) | ❔ [iotgreengrass/faqs](https://aws.amazon.com/iotgreengrass/faqs/) |
-| 83  | AWS IoT Analytics               | 📖 [iotanalytics](https://docs.aws.amazon.com/iotanalytics) | ▶️ [Assistir](https://youtu.be/xyzAnalytics) | ❔ [iotanalytics/faqs](https://aws.amazon.com/iotanalytics/faqs/) |
-| 84  | AWS IoT Device Management       | 📖 [iotdevicemgmt](https://docs.aws.amazon.com/iotdevicemgmt) | ▶️ [Assistir](https://youtu.be/xyzDevice) | ❔ [iotdevicemgmt/faqs](https://aws.amazon.com/iotdevicemgmt/faqs/) |
-| 85  | AWS IoT Events                  | 📖 [iotevents](https://docs.aws.amazon.com/iotevents) | ▶️ [Assistir](https://youtu.be/xyzEvents) | ❔ [iotevents/faqs](https://aws.amazon.com/iotevents/faqs/) |
+| 81  | AWS IoT Core                    | 📖 [iotcore](https://docs.aws.amazon.com/pt_br/iot/) | ▶️ [Assistir](https://youtu.be/6w9a6y_-T2o)| ❔ [iotcore/faqs](https://aws.amazon.com/pt/iot-core/faqs/) |
+| 82  | AWS IoT Greengrass              | 📖 [iotgreengrass](https://docs.aws.amazon.com/greengrass/) | ▶️ [Assistir](https://youtu.be/ynY7vQtcQUw) | ❔ [iotgreengrass/faqs](https://aws.amazon.com/pt/iot-analytics/faq/) |
+| 83  | AWS IoT Analytics               | 📖 [iotanalytics](https://docs.aws.amazon.com/iotanalytics) | ▶️ [Assistir](https://youtu.be/cYD0OU8Jdws) | ❔ [iotanalytics/faqs](https://aws.amazon.com/iotanalytics/faqs/) |
+| 84  | AWS IoT Device Management       | 📖 [iotdevicemgmt](https://docs.aws.amazon.com/iot-device-management/) | ▶️ [Assistir](https://youtu.be/cI7vsLwXRg4) | ❔ [iotdevicemgmt/faqs](https://aws.amazon.com/pt/iot-device-management/faqs/) |
+| 85  | AWS IoT Events                  | 📖 [iotevents](https://docs.aws.amazon.com/iotevents) | ▶️ [Assistir](https://youtu.be/WM0iZ7-96oQ) | ❔ [iotevents/faqs](https://aws.amazon.com/pt/iot-events/faqs/) |
 
 #### Migration e Transferência
 
