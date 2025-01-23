@@ -106,10 +106,10 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 #### Inteligência Artificial e Machine Learning
 | ID  | Nome do Serviço                  | Documentação AWS | Introdução | Perguntas Frequentes AWS |
 |-----|----------------------------------|------------------|------------|--------------------------|
-| 51  | Amazon SageMaker                 | 📖 [sagemaker](https://docs.aws.amazon.com/sagemaker) | ▶️ [Assistir](https://youtu.be/eC_X2oT3PBg) | ❔ [sagemaker/faqs](https://aws.amazon.com/sagemaker/faqs/)|
-| 52  | Amazon Rekognition               | 📖 [rekognition](https://docs.aws.amazon.com/rekognition) | ▶️ [Assistir](https://youtu.be/Lnepg5DQmkI) | ❔ [rekognition/faqs](https://aws.amazon.com/rekognition/faqs/)|
-| 53  | Amazon Polly                     | 📖 [polly](https://docs.aws.amazon.com/polly) | ▶️ [Assistir](https://youtu.be/t7NxEJN1rQI) | ❔ [polly/faqs](https://aws.amazon.com/polly/faqs/)|
-| 54  | Amazon Lex                       | 📖 [lex](https://docs.aws.amazon.com/lex) | ▶️ [Assistir](https://youtu.be/JH1NRlU0LHs) | ❔ [lex/faqs](https://aws.amazon.com/lex/faqs/)|
+| 51  | Amazon SageMaker                 | 📖 [sagemaker](https://docs.aws.amazon.com/sagemaker) | ▶️ [Assistir](https://youtu.be/YcJAc-x8XLQ) | ❔ [sagemaker/faqs](https://aws.amazon.com/sagemaker/faqs/)|
+| 52  | Amazon Rekognition               | 📖 [rekognition](https://docs.aws.amazon.com/rekognition) | ▶️ [Assistir](https://youtu.be/aMGdffpVHHE) | ❔ [rekognition/faqs](https://aws.amazon.com/rekognition/faqs/)|
+| 53  | Amazon Polly                     | 📖 [polly](https://docs.aws.amazon.com/polly) | ▶️ [Assistir](https://youtu.be/MKxE8_qQTFQ) | ❔ [polly/faqs](https://aws.amazon.com/polly/faqs/)|
+| 54  | Amazon Lex                       | 📖 [lex](https://docs.aws.amazon.com/lex) | ▶️ [Assistir](https://youtu.be/Q2yJf4bn5fQ) | ❔ [lex/faqs](https://aws.amazon.com/lex/faqs/)|
 | 55  | AWS Deep Learning AMIs           | 📖 [deeplearning](https://docs.aws.amazon.com/deeplearning) | ▶️ [Assistir](https://youtu.be/lmP72ljDI7k) | ❔ [deeplearning/faqs](https://aws.amazon.com/deeplearning/faqs/)|
 | 56  | AWS Comprehend                   | 📖 [comprehend](https://docs.aws.amazon.com/comprehend) | ▶️ [Assistir](https://youtu.be/_JLwV-PaWdo) | ❔ [comprehend/faqs](https://aws.amazon.com/comprehend/faqs/)|
 | 57  | AWS Translate                    | 📖 [translate](https://docs.aws.amazon.com/translate) | ▶️ [Assistir](https://youtu.be/I_d1FJrdcEw) | ❔ [translate/faqs](https://aws.amazon.com/translate/faqs/)|
