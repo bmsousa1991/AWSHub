@@ -9,8 +9,6 @@ Criada com o objetivo de fornecer materiais de estudo colaborativos para o exame
 - Descrever os serviços chave da AWS (computação, rede, banco de dados, armazenamento).
 - Identificar serviços da AWS para cenários comuns.
 
-## Demonstre conhecimento básico dos serviços de nuvem e da computação em nuvem da AWS
-
 ### Visão geral do exame
 
 | **Categoria**              | Básico                        |
