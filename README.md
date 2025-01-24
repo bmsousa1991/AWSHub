@@ -229,7 +229,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
 
 
-### **Certificações Profissionais**
+### **Certificações Professional**
 
 #### AWS Certified Solutions Architect - Professional (SAP-C01)
 - [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
