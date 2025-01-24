@@ -28,10 +28,10 @@ O **AWS Certified Cloud Practitioner** valida a compreensão básica e de alto n
 Siga nosso plano de preparação para exames em quatro etapas no **AWS Skill Builder**, nosso centro de aprendizado online, para que você possa encarar o dia do exame com confiança.
 
 ### 1. Conheça o exame com perguntas simuladas
-- Consulte o [guia do exame CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- Conjunto de perguntas do exame simulado oficial do AWS Certified Cloud Practitioner
-- Pré-teste oficial de preparação para o exame: **AWS Certified Cloud Practitioner (CLF-C02)**
-- Obtenha orientação adicional com a **Preparação para exames no AWS Skill Builder**
+- [Consulte o guia do exame CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Conjunto de perguntas do exame simulado oficial do AWS Certified Cloud Practitioner](https://explore.skillbuilder.aws/learn/courses/16805/aws-certified-cloud-practitioner-perguntas-de-pratica-oficiais-clf-portugues-brasil-aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-portuguese-brazil)
+- [Pré-teste oficial de preparação para o exame: **AWS Certified Cloud Practitioner (CLF-C02)**](https://explore.skillbuilder.aws/learn/courses/18542/simulado-oficial-de-recursos-para-exames-aws-certified-cloud-practitioner-clf-c02-portugues-brasil-exam-prep-official-pretest-aws-certified-cloud-practitioner-clf-c02-portuguese-brazil)
+- [Obtenha orientação adicional com a **Preparação para exames no AWS Skill Builder**](https://explore.skillbuilder.aws/learn)
 
 ### 2. Recicle seus conhecimentos e habilidades da AWS
 - **AWS Cloud Practitioner Essentials**
