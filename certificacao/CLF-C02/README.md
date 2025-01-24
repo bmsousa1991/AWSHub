@@ -11,6 +11,8 @@ Criada com o objetivo de fornecer materiais de estudo colaborativos para o exame
 
 ### Visão geral do exame
 
+O **AWS Certified Cloud Practitioner** valida a compreensão básica e de alto nível dos serviços, da terminologia e da Nuvem AWS. Esse é um bom ponto de partida na jornada de certificação da AWS para indivíduos sem experiência anterior em TI ou nuvem que estão migrando para uma carreira na nuvem ou para funcionários da linha de negócios que buscam conhecimento básico sobre a nuvem.
+
 | **Categoria**              | Básico                        |
 |----------------------------|-------------------------------|
 | **Duração do exame**        | 90 minutos                    |
@@ -18,8 +20,6 @@ Criada com o objetivo de fornecer materiais de estudo colaborativos para o exame
 | **Custo**                   | 100 USD. Visite os Preços do exame para obter informações adicionais sobre custos, incluindo taxas de câmbio |
 | **Teste presencial ou on-line** | Centro de testes da Pearson VUE ou exame on-line monitorado |
 | **Idiomas oferecidos**      | Inglês, japonês, coreano, chinês simplificado, chinês tradicional, bahasa (Indonésia), espanhol (Espanha), espanhol (América Latina), francês (França), alemão, italiano e português (Brasil) |
-
-O **AWS Certified Cloud Practitioner** valida a compreensão básica e de alto nível dos serviços, da terminologia e da Nuvem AWS. Esse é um bom ponto de partida na jornada de certificação da AWS para indivíduos sem experiência anterior em TI ou nuvem que estão migrando para uma carreira na nuvem ou para funcionários da linha de negócios que buscam conhecimento básico sobre a nuvem.
 
 ---
 
