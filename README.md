@@ -197,6 +197,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ### **Certificações Foundational**
 
+-
 
  AWS Certified Cloud Practitioner (CLF-C02) [Explore aqui](certificacoes/CLF-C02)
 
@@ -204,6 +205,8 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 
 ### **Certificações Associate**
+
+-
 
  AWS Certified SysOps Administrator (SOA-C02) [Explore aqui](certificacoes/SOA-C02)
 
