@@ -197,29 +197,29 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ### **Certificações Foundational**
 
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://github.com/bmsousa1991/AWSHub/tree/main/Certifica%C3%A7%C3%B5es/Foundational%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02))
+- [AWS Certified Cloud Practitioner (CLF-C02)](Certifica%C3%A7%C3%B5es/Foundational%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02))
 
 - [AWS Certified AI Practitioner (AIF-C01)](Certifica%C3%A7%C3%B5es/Foundational%20-%20AWS%20Certified%20AI%20Practitioner%20(AIF-C01))
 
 
 ### **Certificações Associate**
 
-- AWS Certified SysOps Administrator (SOA-C02) [Explore aqui](https://github.com/bmsousa1991/AWSHub/tree/main/Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20SysOps%20Administrator%20(SOA-C02))
+- [AWS Certified SysOps Administrator (SOA-C02)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20SysOps%20Administrator%20(SOA-C02))
 
-- AWS Certified Developer (DVA-C01) [Explore aqui](certificacoes/DVA-C01)
+- [AWS Certified Developer (DVA-C02)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Developer%20(DVA-C02))
 
-- AWS Certified Solutions Architect - Associate (SAA-C03) [Explore aqui](certificacoes/SAA-C03)
+- [AWS Certified Solutions Architect (SAA-C03)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Solutions%20Architect%20%20(SAA-C03))
 
-- AWS Certified Data Engineer [Explore aqui](certificacoes/Data-Engineer)
+- [AWS Certified Data Engineer (DEA-C01)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Data%20Engineer%20(DEA-C01))
 
-- AWS Certified Machine Learning Engineer [Explore aqui](certificacoes/Machine-Learning-Engineer)
+- [AWS Certified Machine Learning Engineer (MLA-C01)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Machine%20Learning%20Engineer%20(MLA-C01))
 
 
 ### **Certificações Professional**
 
 - AWS Certified Solutions Architect - Professional (SAP-C01) [Explore aqui](certificacoes/SAP-C01)
 
-- AWS Certified DevOps Engineer - Professional (DOP-C01) [Explore aqui](certificacoes/DOP-C01)
+- AWS Certified DevOps Engineer - Professional (DOP-C01) [Explore aqui](Certifica%C3%A7%C3%B5es/Professional%20-%20AWS%20Certified%20DevOps%20Engineer%20(DOP-C02))
 
 
 ### **Certificações Specialty**
