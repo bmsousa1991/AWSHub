@@ -168,8 +168,8 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 90  | AWS Snowball                    | 📖 [snowball](https://docs.aws.amazon.com/snowball) | ▶️ [Assistir](https://youtu.be/bxSD1Nha2k8)    | ❔ [snowball/faqs](https://aws.amazon.com/snowball/faqs/) |
 | 91  | AWS Transfer for SFTP           | 📖 [transfersftp](https://docs.aws.amazon.com/transfer/) | ▶️ [Assistir](https://youtu.be/AQtTG2N_QCg)   | ❔ [transfersftp/faqs](https://aws.amazon.com/pt/aws-transfer-family/faqs/) |
 | 92  | AWS DataSync                    | 📖 [datasync](https://docs.aws.amazon.com/datasync) | ▶️ [Assistir](https://youtu.be/_qhTF-gB-JE)    | ❔ [datasync/faqs](https://aws.amazon.com/datasync/faqs/) |
-| 93  | AWS Import/Export Snowcone      | 📖 [snowcone](https://docs.aws.amazon.com/snowcone) | ▶️ [Assistir](https://youtu.be/xyzCone)    | ❔ [snowcone/faqs](https://aws.amazon.com/snowcone/faqs/) |
-| 94  | AWS Transfer Family             | 📖 [transferfamily](https://docs.aws.amazon.com/transferfamily) | ▶️ [Assistir](https://youtu.be/xyzFamily) | ❔ [transferfamily/faqs](https://aws.amazon.com/transferfamily/faqs/) |
+| 93  | AWS Import/Export Snowcone      | 📖 [snowcone](https://docs.aws.amazon.com/pt_br/snowball/latest/snowcone-guide/snowcone-what-is-snowcone.html) | ▶️ [Assistir](https://youtu.be/X_8LM7E_hiE)    | ❔ [snowcone/faqs](https://aws.amazon.com/pt/snowball/faqs/) |
+| 94  | AWS Transfer Family             | 📖 [transferfamily](https://docs.aws.amazon.com/transfer/) | ▶️ [Assistir](https://youtu.be/AQtTG2N_QCg) | ❔ [transferfamily/faqs](https://aws.amazon.com/pt/aws-transfer-family/faqs/) |
 
 #### Gerenciamento e Governança
 
@@ -180,7 +180,7 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 97  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation) | ▶️ [Assistir](https://youtu.be/xyzCloudForm) | ❔ [cloudformation/faqs](https://aws.amazon.com/cloudformation/faqs/) |
 | 98  | AWS Organizations               | 📖 [organizations](https://docs.aws.amazon.com/organizations) | ▶️ [Assistir](https://youtu.be/xyzOrg)     | ❔ [organizations/faqs](https://aws.amazon.com/organizations/faqs/) |
 | 99  | AWS Control Tower               | 📖 [controltower](https://docs.aws.amazon.com/controltower) | ▶️ [Assistir](https://youtu.be/xyzControl) | ❔ [controltower/faqs](https://aws.amazon.com/controltower/faqs/) |
-| 100 | AWS Service Catalog             | 📖 [servicecatalog](https://docs.aws.amazon.com/servicecatalog) | ▶️ [Assistir](https://youtu.be/xyzCatalog) | ❔ [servicecatalog/faqs](https://aws.amazon.com/servicecatalog/faqs/) |
+| 100 | AWS Service Catalog             | 📖 [servicecatalog](https://docs.aws.amazon.com/servicecatalog) | ▶️ [Assistir]() |
 
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
