@@ -1,78 +1,56 @@
-# Guia de Estudos: AWS Certified Cloud Practitioner (CLF‐C02)
+# Guia de Estudos: AWS Cloud Practitioner (CLF‐C02)
 
-Este guia foi criado para fornecer materiais de estudo colaborativos e auxiliar na preparação para o exame **AWS Certified Cloud Practitioner (CLF-C02)**. Ele abrange os fundamentos essenciais da nuvem da AWS, ajudando candidatos a demonstrarem uma compreensão abrangente dos serviços e conceitos principais.
+Este guia foi criado para fornecer materiais de estudo colaborativos para o exame **AWS Certified Cloud Practitioner (CLF-C02)**. O conteúdo aqui disponibilizado visa equipar os candidatos com os fundamentos essenciais da nuvem AWS. 
 
-
-## Por que obter a certificação?
-
-A certificação é ideal para quem deseja:
-
-- Compreender os serviços e as estruturas da nuvem AWS.
-- Validar conhecimentos básicos em computação em nuvem.
-- Iniciar sua jornada de certificações AWS.
-
-
-## Áreas de Competência Validadas
+A certificação é ideal para aqueles que desejam demonstrar uma compreensão abrangente dos serviços e estruturas da AWS, independentemente de suas funções específicas. Ela valida a competência do candidato nas seguintes áreas:
 
 - Explicar o valor da nuvem AWS.
-- Compreender o modelo de responsabilidade compartilhada da AWS.
+- Entender o modelo de responsabilidade compartilhada da AWS.
 - Conhecer as melhores práticas de segurança.
 - Entender cobrança e custos na AWS.
-- Descrever serviços-chave da AWS, como computação, redes, bancos de dados e armazenamento.
-- Identificar serviços da AWS adequados para cenários comuns.
+- Descrever os serviços-chave da AWS (computação, rede, banco de dados, armazenamento).
+- Identificar serviços da AWS para cenários comuns.
 
 ---
 
-## Detalhes do Exame
+## **AWS Certified Cloud Practitioner**
 
-| **Categoria**       | Básico |
-|----------------------|--------|
-| **Duração**          | 90 minutos |
-| **Formato**          | 65 questões de múltipla escolha ou múltipla resposta |
-| **Custo**            | USD 100 |
-| **Locais Disponíveis** | Centros Pearson VUE ou online com supervisão |
-| **Idiomas Oferecidos** | Inglês, Português (Brasil), Espanhol, Francês, Italiano, Japonês, Coreano, Chinês Simplificado, entre outros |
+### Demonstre conhecimento básico sobre:
+- **Serviços de nuvem AWS**.
+- **Computação em nuvem**.
 
-> **Nota**: Consulte a página oficial de [Preços do Exame AWS](https://aws.amazon.com/certification/) para informações atualizadas.
+### Informações do Exame:
+- **Categoria:** Básico  
+- **Duração:** 90 minutos  
+- **Formato:** 65 questões (múltipla escolha ou múltipla resposta)  
+- **Custo:** $100 USD  
+  - Consulte os [Preços do exame](https://aws.amazon.com/certification/certification-pricing/) para detalhes adicionais sobre taxas de câmbio.  
+- **Opções de teste:** Presencial (Centro Pearson VUE) ou on-line monitorado  
+- **Idiomas disponíveis:**  
+  Inglês, japonês, coreano, chinês simplificado, chinês tradicional, bahasa (Indonésia), espanhol (Espanha e América Latina), francês, alemão, italiano e português (Brasil).
 
----
+Essa certificação valida uma compreensão básica e de alto nível dos serviços, terminologias e fundamentos da Nuvem AWS. É um ótimo ponto de partida na jornada de certificação AWS, especialmente para:
 
-## Etapas de Preparação para o Exame
+- **Indivíduos sem experiência anterior em TI ou nuvem**, que estão migrando para uma carreira na nuvem.
+- **Funcionários da linha de negócios**, que desejam adquirir conhecimento básico sobre a nuvem.
 
-### 1. Conheça o Exame
-- **Leia o Guia do Exame**: Familiarize-se com os tópicos avaliados no exame CLF-C02.
-- **Pratique com Perguntas Simuladas**: Use o conjunto oficial de perguntas simuladas fornecido pela AWS.
-- **Pré-teste Oficial**: Realize o pré-teste para identificar áreas de melhoria.
-
-**Recursos sugeridos**:
-- [Guia do Exame CLF-C02](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
-- [Perguntas Simuladas Oficiais](https://explore.skillbuilder.aws/learn/courses/16805/aws-certified-cloud-practitioner-perguntas-de-pratica-oficiais-clf-portugues-brasil-aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-portuguese-brazil)
-
-### 2. Reforce seus Conhecimentos e Habilidades
-**Cursos Essenciais**:
-- **AWS Cloud Practitioner Essentials**: Um curso introdutório para aprender os conceitos fundamentais.
-- **AWS Cloud Quest: Cloud Practitioner**: Uma abordagem interativa e prática.
-
-### 3. Recapitule e Pratique
-**Cursos Avançados**:
-- **Curso Padrão**: AWS Certified Cloud Practitioner Exam Readiness.
-- **Curso Avançado**: Para uma preparação mais detalhada.
-
-**Atividades Práticas**:
-- **AWS Escape Room**: Uma abordagem gamificada para revisão.
-
-### 4. Avalie sua Preparação
-- Realize o **Simulado Oficial** para medir seu nível de prontidão antes do exame.
-
-> **Dica**: O simulado oficial é uma excelente forma de se familiarizar com o formato das questões e reforçar sua confiança.
+### **Pronto para obter sua certificação AWS?**
+[Agende seu exame aqui »](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ---
 
-## Pronto para Começar?
+## **Prepare-se para o exame**
 
-- Acesse o [AWS Skill Builder](https://aws.amazon.com/training/) para começar sua jornada de aprendizado.
-- **[Agende o Exame](https://aws.amazon.com/certification/)**: Clique aqui para se inscrever.
+Comece do zero e alcance a certificação com confiança. Siga este plano de preparação em quatro etapas, utilizando o **AWS Skill Builder**, nosso centro de aprendizado online.
 
----
+### **1. Conheça o exame com perguntas simuladas**
+- Consulte o [Guia do Exame CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+- Utilize o conjunto oficial de perguntas simuladas do exame **AWS Certified Cloud Practitioner**.
+- Faça o **Pré-teste oficial de preparação para o exame CLF-C02**.
+- Obtenha mais orientação com a **Preparação para exames** no AWS Skill Builder.
 
-**Boa sorte na sua jornada de certificação!** 🚀
+### **2. Recicle seus conhecimentos e habilidades da AWS**
+- **Curso:** [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/path-cloudpractitioner/).
+- **Jogo interativo:** [AWS Cloud Quest: Cloud Practitioner](https://aws.amazon.com/training/digital/aws-cloud-quest-cloud-practitioner/).
+
+Boa sorte na sua jornada de aprendizado e certificação!
