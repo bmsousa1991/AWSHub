@@ -198,61 +198,49 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 ### **Certificações Foundational**
 
 #### AWS Certified Cloud Practitioner (CLF-C02)
-- [Guia do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/CLF-C02)
 
 #### AWS Certified AI Practitioner (AIF-C01)
-- [Guia do Exame](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
-- [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
+- [Repositório da Certificação](certificacoes/AIF-C01)
 
 
 ### **Certificações Associate**
 
 #### AWS Certified SysOps Administrator (SOA-C02)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-sysops-assoc/AWS-Certified-SysOps-Administrator-Associate_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/SOA-C02)
 
 #### AWS Certified Developer (DVA-C01)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-dev-assoc/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-dev-assoc/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/DVA-C01)
 
 #### AWS Certified Solutions Architect - Associate (SAA-C03)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/SAA-C03)
 
 #### AWS Certified Data Engineer
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf)
-- [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
+- [Repositório da Certificação](certificacoes/Data-Engineer)
 
 #### AWS Certified Machine Learning Engineer
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-machine-learning-engineer-associate/AWS-Certified-Machine-Learning-Engineer-Associate_Exam-Guide.pdf)
-- [Questões de Exemplo] *Ainda não há links oficiais disponíveis.*
+- [Repositório da Certificação](certificacoes/Machine-Learning-Engineer)
 
 
 ### **Certificações Professional**
 
 #### AWS Certified Solutions Architect - Professional (SAP-C01)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/SAP-C01)
 
 #### AWS Certified DevOps Engineer - Professional (DOP-C01)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-professional/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/DOP-C01)
 
 
 ### **Certificações Specialty**
 
 #### AWS Certified Advanced Networking - Specialty (ANS-C00)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Advanced-Networking-Specialty_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/ANS-C00)
 
 #### AWS Certified Machine Learning - Specialty (MLS-C01)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Machine-Learning-Specialty_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/MLS-C01)
 
 #### AWS Certified Security - Specialty (SCS-C01)
-- [Guia do Exame](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
-- [Questões de Exemplo](https://d1.awsstatic.com/training-and-certification/docs-specialty/AWS-Certified-Security-Specialty_Sample-Questions.pdf)
+- [Repositório da Certificação](certificacoes/SCS-C01)
 
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
