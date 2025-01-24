@@ -204,31 +204,31 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ### **Certificações Associate**
 
- AWS Certified SysOps Administrator (SOA-C02) [Explore aqui](certificacoes/SOA-C02)
+- AWS Certified SysOps Administrator (SOA-C02) [Explore aqui](certificacoes/SOA-C02)
 
- AWS Certified Developer (DVA-C01) [Explore aqui](certificacoes/DVA-C01)
+- AWS Certified Developer (DVA-C01) [Explore aqui](certificacoes/DVA-C01)
 
- AWS Certified Solutions Architect - Associate (SAA-C03) [Explore aqui](certificacoes/SAA-C03)
+- AWS Certified Solutions Architect - Associate (SAA-C03) [Explore aqui](certificacoes/SAA-C03)
 
- AWS Certified Data Engineer [Explore aqui](certificacoes/Data-Engineer)
+- AWS Certified Data Engineer [Explore aqui](certificacoes/Data-Engineer)
 
- AWS Certified Machine Learning Engineer [Explore aqui](certificacoes/Machine-Learning-Engineer)
+- AWS Certified Machine Learning Engineer [Explore aqui](certificacoes/Machine-Learning-Engineer)
 
 
 ### **Certificações Professional**
 
- AWS Certified Solutions Architect - Professional (SAP-C01) [Explore aqui](certificacoes/SAP-C01)
+- AWS Certified Solutions Architect - Professional (SAP-C01) [Explore aqui](certificacoes/SAP-C01)
 
- AWS Certified DevOps Engineer - Professional (DOP-C01) [Explore aqui](certificacoes/DOP-C01)
+- AWS Certified DevOps Engineer - Professional (DOP-C01) [Explore aqui](certificacoes/DOP-C01)
 
 
 ### **Certificações Specialty**
 
- AWS Certified Advanced Networking - Specialty (ANS-C00) [Explore aqui](certificacoes/ANS-C00)
+- AWS Certified Advanced Networking - Specialty (ANS-C00) [Explore aqui](certificacoes/ANS-C00)
 
- AWS Certified Machine Learning - Specialty (MLS-C01) [Explore aqui](certificacoes/MLS-C01)
+- AWS Certified Machine Learning - Specialty (MLS-C01) [Explore aqui](certificacoes/MLS-C01)
 
- AWS Certified Security - Specialty (SCS-C01) [Explore aqui](certificacoes/SCS-C01)
+- AWS Certified Security - Specialty (SCS-C01) [Explore aqui](certificacoes/SCS-C01)
 
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
