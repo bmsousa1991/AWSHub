@@ -2,7 +2,6 @@
 
 Este guia foi criado para fornecer materiais de estudo colaborativos e auxiliar na preparação para o exame **AWS Certified Cloud Practitioner (CLF-C02)**. Ele abrange os fundamentos essenciais da nuvem da AWS, ajudando candidatos a demonstrarem uma compreensão abrangente dos serviços e conceitos principais.
 
----
 
 ## Por que obter a certificação?
 
@@ -12,7 +11,6 @@ A certificação é ideal para quem deseja:
 - Validar conhecimentos básicos em computação em nuvem.
 - Iniciar sua jornada de certificações AWS.
 
----
 
 ## Áreas de Competência Validadas
 
@@ -47,8 +45,8 @@ A certificação é ideal para quem deseja:
 - **Pré-teste Oficial**: Realize o pré-teste para identificar áreas de melhoria.
 
 **Recursos sugeridos**:
-- [Guia do Exame CLF-C02](https://aws.amazon.com/certification/)
-- [Perguntas Simuladas Oficiais](https://aws.amazon.com/certification/)
+- [Guia do Exame CLF-C02](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+- [Perguntas Simuladas Oficiais](https://explore.skillbuilder.aws/learn/courses/16805/aws-certified-cloud-practitioner-perguntas-de-pratica-oficiais-clf-portugues-brasil-aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-portuguese-brazil)
 
 ### 2. Reforce seus Conhecimentos e Habilidades
 **Cursos Essenciais**:
