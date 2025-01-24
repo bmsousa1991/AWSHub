@@ -197,9 +197,9 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ### **Certificações Foundational**
 
-- [AWS Certified Cloud Practitioner (CLF-C02)](certificacoes/CLF-C02)
+- [AWS Certified Cloud Practitioner (CLF-C02)](certificacoes/Foundational/AWS-Certified-Cloud-Practitioner-CLF-C02)
 
-- AWS Certified AI Practitioner (AIF-C01) [Explore aqui](certificacoes/AIF-C01)
+- [AWS Certified AI Practitioner (AIF-C01)](certificacoes/Foundational/AWS-Certified-AI-Practitioner-AIF-C01)
 
 
 ### **Certificações Associate**
