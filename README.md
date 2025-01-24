@@ -197,38 +197,38 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ### **Certificações Foundational**
 
-- [AWS Certified Cloud Practitioner (CLF-C02)](Certifica%C3%A7%C3%B5es/Foundational%20-%20AWS%20Certified%20Cloud%20Practitioner%20(CLF-C02))
+- [AWS Certified Cloud Practitioner (CLF-C02)](certificacao/CLF-C02)
 
-- [AWS Certified AI Practitioner (AIF-C01)](Certifica%C3%A7%C3%B5es/Foundational%20-%20AWS%20Certified%20AI%20Practitioner%20(AIF-C01))
+- [AWS Certified AI Practitioner (AIF-C01)](certificacao/AIF-C01)
 
 
 ### **Certificações Associate**
 
-- [AWS Certified SysOps Administrator (SOA-C02)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20SysOps%20Administrator%20(SOA-C02))
+- [AWS Certified SysOps Administrator (SOA-C02)](certificacao/SOA-C02)
 
-- [AWS Certified Developer (DVA-C02)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Developer%20(DVA-C02))
+- [AWS Certified Developer (DVA-C02)](certificacao/DVA-C02)
 
-- [AWS Certified Solutions Architect (SAA-C03)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Solutions%20Architect%20%20(SAA-C03))
+- [AWS Certified Solutions Architect (SAA-C03)](certificacao/SAA-C03)
 
-- [AWS Certified Data Engineer (DEA-C01)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Data%20Engineer%20(DEA-C01))
+- [AWS Certified Data Engineer (DEA-C01)](certificacao/DEA-C01)
 
-- [AWS Certified Machine Learning Engineer (MLA-C01)](Certifica%C3%A7%C3%B5es/Associate%20-%20AWS%20Certified%20Machine%20Learning%20Engineer%20(MLA-C01))
+- [AWS Certified Machine Learning Engineer (MLA-C01)](certificacao/MLA-C01)
 
 
 ### **Certificações Professional**
 
-- AWS Certified Solutions Architect - Professional (SAP-C01) [Explore aqui](certificacoes/SAP-C01)
+- [AWS Certified Solutions Architect - Professional (SAP-C03)](certificacao/SAP-C03)
 
-- AWS Certified DevOps Engineer - Professional (DOP-C01) [Explore aqui](Certifica%C3%A7%C3%B5es/Professional%20-%20AWS%20Certified%20DevOps%20Engineer%20(DOP-C02))
+- [AWS Certified DevOps Engineer - Professional (DOP-C02)](certificacao/DOP-C02)
 
 
 ### **Certificações Specialty**
 
-- AWS Certified Advanced Networking - Specialty (ANS-C00) [Explore aqui](certificacoes/ANS-C00)
+- [AWS Certified Advanced Networking - Specialty (ANS-C01)](certificacoes/ANS-C01)
 
-- AWS Certified Machine Learning - Specialty (MLS-C01) [Explore aqui](certificacoes/MLS-C01)
+- [AWS Certified Machine Learning - Specialty (MLS-C01)](certificacoes/MLS-C01)
 
-- AWS Certified Security - Specialty (SCS-C01) [Explore aqui](certificacoes/SCS-C01)
+- [AWS Certified Security - Specialty (SCS-C02)](certificacoes/SCS-C02)
 
 
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
