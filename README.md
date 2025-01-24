@@ -178,9 +178,9 @@ Esta seção fornece links para documentação detalhada, vídeos introdutórios
 | 95  | AWS Systems Manager             | 📖 [systemsmanager](https://docs.aws.amazon.com/systems-manager/) | ▶️ [Assistir](https://youtu.be/MK4ZoCs-muo) | ❔ [systemsmanager/faqs](https://aws.amazon.com/pt/systems-manager/faq/) |
 | 96  | AWS Trusted Advisor             | 📖 [trustedadvisor](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html) | ▶️ [Assistir](https://youtu.be/i0IkKN9NoPk) | ❔ [trustedadvisor/faqs](https://aws.amazon.com/pt/premiumsupport/technology/trusted-advisor/) |
 | 97  | AWS CloudFormation              | 📖 [cloudformation](https://docs.aws.amazon.com/cloudformation/) | ▶️ [Assistir](https://youtu.be/1h-GPXQrLZw) | ❔ [cloudformation/faqs](https://aws.amazon.com/pt/cloudformation/faqs/) |
-| 98  | AWS Organizations               | 📖 [organizations](https://docs.aws.amazon.com/organizations) | ▶️ [Assistir](https://youtu.be/xyzOrg)     | ❔ [organizations/faqs](https://aws.amazon.com/organizations/faqs/) |
-| 99  | AWS Control Tower               | 📖 [controltower](https://docs.aws.amazon.com/controltower) | ▶️ [Assistir](https://youtu.be/xyzControl) | ❔ [controltower/faqs](https://aws.amazon.com/controltower/faqs/) |
-| 100 | AWS Service Catalog             | 📖 [servicecatalog](https://docs.aws.amazon.com/servicecatalog) | ▶️ [Assistir]() |
+| 98  | AWS Organizations               | 📖 [organizations](https://docs.aws.amazon.com/organizations) | ▶️ [Assistir](https://youtu.be/T4NK8fv8YdI)  | ❔ [organizations/faqs](https://aws.amazon.com/organizations/faqs/) |
+| 99  | AWS Control Tower               | 📖 [controltower](https://docs.aws.amazon.com/controltower) | ▶️ [Assistir](https://youtu.be/daLvEb44d5Q) | ❔ [controltower/faqs](https://aws.amazon.com/controltower/faqs/) |
+| 100 | AWS Service Catalog             | 📖 [servicecatalog](https://docs.aws.amazon.com/servicecatalog/) | ▶️ [Assistir](https://youtu.be/A6-jv3gZa4U) | ❔ [servicecatalog/faqs](https://aws.amazon.com/pt/servicecatalog/faqs/) |
 
 
 E **mais serviços chegando...⏩** você pode adicionar este repositório aos seus favoritos/seguir para obter mais conteúdos atualizados ⭐
