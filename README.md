@@ -5,7 +5,8 @@
 
 <p align="center">
 <a href="https://github.com/devopsbrhub/AWSHub/commits/main"><img alt="Último Commit" src="https://img.shields.io/github/last-commit/devopsbrhub/AWSHub/main" /></a>
-<a href="https://github.com/devopsbrhub/AWSHub/stargazers"><img alt="Estrelas do Repositório" src="https://img.shields.io/github/stars/devopsbrhub/AWSHub"/></a>
+<a href="https://github.com/devopsbrhub/AWSHub/stargazers"><img alt="Estrelas do Repositório" src="https://img.shields.io/github/stars/devopsbrhub/AWSHub" /></a>
+<a href="https://github.com/devopsbrhub/AWSHub/network/members"><img alt="Forks do Repositório" src="https://img.shields.io/github/forks/devopsbrhub/AWSHub?label=forks" /></a>
 </p>
 
 ## Começando 🚀
