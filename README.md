@@ -234,49 +234,49 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
 
 
-### Cursos
+## 📘 Cursos Gratuitos: Visão Geral dos Serviços AWS
 
-- Stephane Maarek: https://www.udemy.com/user/stephane-maarek/
-- Jon Bonso: https://www.udemy.com/user/jonjonbonso/
-- Adrian Cantrill: https://learn.cantrill.io/
-- Youtube freeCodeCamp.org: https://youtu.be/NhDYbskXRgc
+- **Talento Cloud do Grupo Boticário**  
+  Explore a plataforma gratuita para aprender sobre os serviços da AWS.  
+  [Acesse aqui](https://aws-boticario.ontidwit.com/#/)
 
-### Hands-on/Labs
+- **AWS Academy**  
+  Uma iniciativa educacional da AWS para aprendizado gratuito.  
+  [Acesse aqui](https://aws.amazon.com/pt/training/awsacademy/)
 
-- Labs gratuitos learn-cantrill-io: https://github.com/acantril/learn-cantrill-io-labs
-- Curso gratuito AWS Cloud Complete Bootcamp: https://youtu.be/zA8guDqfv40
+- **Udemy**  
+  Acesse cursos gratuitos sobre AWS disponíveis na plataforma.  
+  [Acesse aqui](https://www.udemy.com/pt/topic/amazon-aws/free/)
 
-### Testes Práticos
+- **AWS Cloud Complete Bootcamp Course**  
+  Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.  
+  [Assista aqui](https://youtu.be/zA8guDqfv40)
 
-- Exam Topics - Lista de todos os exames da Amazon (Gratuito): [**aqui**](https://www.examtopics.com/exams/amazon/) (Ex: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
-- Testes Práticos TutorialsDojo (Ex: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
-- Udemy - Testes Práticos de Stephane Maarek (Ex: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
 
-### Guias/Fichas de Consulta
+## 📄 Guias e Fichas de Consulta
 
-- Digital Cloud Training - Fichas de Consulta AWS: https://digitalcloud.training/aws-cheat-sheets/
-- TutorialsDojo - Fichas de Consulta AWS: https://tutorialsdojo.com/aws-cheat-sheets/
-- Whizlabs - Fichas de Consulta AWS: https://www.whizlabs.com/blog/aws-cheat-sheet/
+- **Digital Cloud Training**  
+  Fichas de consulta detalhadas sobre serviços AWS.  
+  [Acesse aqui](https://digitalcloud.training/aws-cheat-sheets/)
+
+- **TutorialsDojo**  
+  Recursos de aprendizado e fichas de consulta para AWS.  
+  [Acesse aqui](https://tutorialsdojo.com/aws-cheat-sheets/)
+
+- **Whizlabs**  
+  Fichas de consulta para ajudar a reforçar conceitos sobre AWS.  
+  [Acesse aqui](https://www.whizlabs.com/blog/aws-cheat-sheet/)
+
 
 ### Recursos de Aprendizado de Serviços AWS
 
 O link abaixo funciona como um marcador, ajudando você a recapitular o serviço por meio de um vídeo introdutório curto e fornecendo documentos, bem como perguntas frequentes que você pode consultar durante a preparação/prática do exame.
 
-- Explore [**recursos de aprendizado de serviços aws**](https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-)
+- Explore [**recursos de aprendizado de serviços aws**](https://github.com/DevOpsBrHub/AWSHub/blob/main/README.md#recursos-de-aprendizado-de-servi%C3%A7os-aws-)
 
 ### Sub-Reddit de Certificação AWS
 
 - [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) reúne discussões, perguntas, opiniões, notícias e comentários sobre certificações AWS, como dicas de preparação, esclarecimentos, lições aprendidas.
-
-### Recursos Específicos de Certificação AWS
-
-|     | ID          | Nome da Certificação                           | Caminho de Aprendizado                                |
-| --- | ----------- | ---------------------------------------------- | ----------------------------------------------------- |
-| 1   | AWS SAA-C03 | Exame AWS Certified Solutions Architect - Associate | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md)   |
-| 2   | AWS CLF-C02 | Exame AWS Certified Cloud Practitioner          | ...em breve                                           |
-| 3   | AWS DOP-C02 | Exame AWS Certified DevOps Engineer - Professional | ...em breve                                           |
-
-➡️ Explore este [**conjunto de recursos específicos de certificação AWS**](./certification/) para mais detalhes.
 
 ## Arquitetura AWS ✒️
 

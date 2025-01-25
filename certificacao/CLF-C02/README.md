@@ -17,7 +17,7 @@ O **AWS Certified Cloud Practitioner** valida a compreensão básica e de alto n
 |----------------------------|-------------------------------|
 | **Duração do exame**        | 90 minutos                    |
 | **Formato do exame**        | 65 questões; múltipla escolha ou múltipla resposta |
-| **Custo**                   | 100 USD. Visite os Preços do exame para obter informações adicionais sobre custos, incluindo taxas de câmbio |
+| **Custo**                   | 100 USD. Visite os [Preços do exame](https://aws.amazon.com/pt/certification/policies/before-testing/#Exam_pricing) para obter informações adicionais sobre custos, incluindo taxas de câmbio |
 | **Teste presencial ou on-line** | Centro de testes da Pearson VUE ou exame on-line monitorado |
 | **Idiomas oferecidos**      | Inglês, japonês, coreano, chinês simplificado, chinês tradicional, bahasa (Indonésia), espanhol (Espanha), espanhol (América Latina), francês (França), alemão, italiano e português (Brasil) |
 
