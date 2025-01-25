@@ -311,7 +311,7 @@ Visite [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebse
 - AWS re:Invent 2021: [https://youtu.be/8_Xs8Ik0h1w](https://youtu.be/8_Xs8Ik0h1w)
 - ...e mais
 
-## O Que Vem a Seguir? ❔
+## O Que Vem a Seguir ❔
 
 - Continuarei mantendo este repositório e atualizando os recursos.
 - Fique atento para mais conteúdos valiosos, pois continuo adicionando os recursos e atualizações mais recentes.
