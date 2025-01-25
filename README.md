@@ -195,14 +195,14 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ![aws-certification](./assets/aws-certification.png)
 
-### **Certificações Foundational**
+#### **Certificações Foundational**
 
 - [AWS Certified Cloud Practitioner (CLF-C02)](certificacao/CLF-C02)
 
 - [AWS Certified AI Practitioner (AIF-C01)](certificacao/AIF-C01)
 
 
-### **Certificações Associate**
+#### **Certificações Associate**
 
 - [AWS Certified SysOps Administrator (SOA-C02)](certificacao/SOA-C02)
 
@@ -215,14 +215,14 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [AWS Certified Machine Learning Engineer (MLA-C01)](certificacao/MLA-C01)
 
 
-### **Certificações Professional**
+#### **Certificações Professional**
 
 - [AWS Certified Solutions Architect - Professional (SAP-C03)](certificacao/SAP-C03)
 
 - [AWS Certified DevOps Engineer - Professional (DOP-C02)](certificacao/DOP-C02)
 
 
-### **Certificações Specialty**
+#### **Certificações Specialty**
 
 - [AWS Certified Advanced Networking - Specialty (ANS-C01)](certificacoes/ANS-C01)
 
@@ -234,7 +234,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
 
 
-## 📘 Cursos Gratuitos: Serviços AWS
+### 📘 Cursos Gratuitos: Serviços AWS
 
 - [**Talento Cloud do Grupo Boticário**](https://aws-boticario.ontidwit.com/#/) Explore a plataforma gratuita para aprender sobre os serviços da AWS.
 
@@ -244,7 +244,7 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 - [**AWS Cloud Complete Bootcamp Course**](https://youtu.be/zA8guDqfv40) Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.
 
-## 📄 Guias e Fichas de Consulta
+### 📄 Guias e Fichas de Consulta
 
 - [**Digital Cloud Training**](https://digitalcloud.training/aws-cheat-sheets/) Fichas de consulta detalhadas sobre serviços AWS.
 
