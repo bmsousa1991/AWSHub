@@ -195,14 +195,14 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ![aws-certification](./assets/aws-certification.png)
 
-### **Certificações Foundational**
+#### **Certificações Foundational**
 
 - [AWS Certified Cloud Practitioner (CLF-C02)](certificacao/CLF-C02)
 
 - [AWS Certified AI Practitioner (AIF-C01)](certificacao/AIF-C01)
 
 
-### **Certificações Associate**
+#### **Certificações Associate**
 
 - [AWS Certified SysOps Administrator (SOA-C02)](certificacao/SOA-C02)
 
@@ -215,14 +215,14 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - [AWS Certified Machine Learning Engineer (MLA-C01)](certificacao/MLA-C01)
 
 
-### **Certificações Professional**
+#### **Certificações Professional**
 
 - [AWS Certified Solutions Architect - Professional (SAP-C03)](certificacao/SAP-C03)
 
 - [AWS Certified DevOps Engineer - Professional (DOP-C02)](certificacao/DOP-C02)
 
 
-### **Certificações Specialty**
+#### **Certificações Specialty**
 
 - [AWS Certified Advanced Networking - Specialty (ANS-C01)](certificacoes/ANS-C01)
 
@@ -234,49 +234,33 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 💡 **Dica**: Explore os guias para entender o objetivo, o escopo e os exemplos de cada exame. Boa sorte nos seus estudos!
 
 
-### Cursos
+### 📘 Cursos Gratuitos: Serviços AWS
 
-- Stephane Maarek: https://www.udemy.com/user/stephane-maarek/
-- Jon Bonso: https://www.udemy.com/user/jonjonbonso/
-- Adrian Cantrill: https://learn.cantrill.io/
-- Youtube freeCodeCamp.org: https://youtu.be/NhDYbskXRgc
+- [**Talento Cloud do Grupo Boticário**](https://aws-boticario.ontidwit.com/#/) Explore a plataforma gratuita para aprender sobre os serviços da AWS.
 
-### Hands-on/Labs
+- [**AWS Academy**](https://aws.amazon.com/pt/training/awsacademy/) Uma iniciativa educacional da AWS para aprendizado gratuito.
 
-- Labs gratuitos learn-cantrill-io: https://github.com/acantril/learn-cantrill-io-labs
-- Curso gratuito AWS Cloud Complete Bootcamp: https://youtu.be/zA8guDqfv40
+- [**Udemy**](https://www.udemy.com/pt/topic/amazon-aws/free/) Acesse cursos gratuitos sobre AWS disponíveis na plataforma.
 
-### Testes Práticos
+- [**AWS Cloud Complete Bootcamp Course**](https://youtu.be/zA8guDqfv40) Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.
 
-- Exam Topics - Lista de todos os exames da Amazon (Gratuito): [**aqui**](https://www.examtopics.com/exams/amazon/) (Ex: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
-- Testes Práticos TutorialsDojo (Ex: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
-- Udemy - Testes Práticos de Stephane Maarek (Ex: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
+### 📄 Guias e Fichas de Consulta
 
-### Guias/Fichas de Consulta
+- [**Digital Cloud Training**](https://digitalcloud.training/aws-cheat-sheets/) Fichas de consulta detalhadas sobre serviços AWS.
 
-- Digital Cloud Training - Fichas de Consulta AWS: https://digitalcloud.training/aws-cheat-sheets/
-- TutorialsDojo - Fichas de Consulta AWS: https://tutorialsdojo.com/aws-cheat-sheets/
-- Whizlabs - Fichas de Consulta AWS: https://www.whizlabs.com/blog/aws-cheat-sheet/
+- [**TutorialsDojo**](https://tutorialsdojo.com/aws-cheat-sheets/) Recursos de aprendizado e fichas de consulta para AWS.
+
+- [**Whizlabs**](https://www.whizlabs.com/blog/aws-cheat-sheet/) Fichas de consulta para ajudar a reforçar conceitos sobre AWS.
 
 ### Recursos de Aprendizado de Serviços AWS
 
 O link abaixo funciona como um marcador, ajudando você a recapitular o serviço por meio de um vídeo introdutório curto e fornecendo documentos, bem como perguntas frequentes que você pode consultar durante a preparação/prática do exame.
 
-- Explore [**recursos de aprendizado de serviços aws**](https://github.com/tungbq/AWSHub/blob/main/README.md#aws-services-learning-resources-)
+- Explore [**recursos de aprendizado de serviços aws**](https://github.com/DevOpsBrHub/AWSHub/blob/main/README.md#recursos-de-aprendizado-de-servi%C3%A7os-aws-)
 
 ### Sub-Reddit de Certificação AWS
 
 - [**r/AWSCertifications**](https://www.reddit.com/r/AWSCertifications/) reúne discussões, perguntas, opiniões, notícias e comentários sobre certificações AWS, como dicas de preparação, esclarecimentos, lições aprendidas.
-
-### Recursos Específicos de Certificação AWS
-
-|     | ID          | Nome da Certificação                           | Caminho de Aprendizado                                |
-| --- | ----------- | ---------------------------------------------- | ----------------------------------------------------- |
-| 1   | AWS SAA-C03 | Exame AWS Certified Solutions Architect - Associate | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md)   |
-| 2   | AWS CLF-C02 | Exame AWS Certified Cloud Practitioner          | ...em breve                                           |
-| 3   | AWS DOP-C02 | Exame AWS Certified DevOps Engineer - Professional | ...em breve                                           |
-
-➡️ Explore este [**conjunto de recursos específicos de certificação AWS**](./certification/) para mais detalhes.
 
 ## Arquitetura AWS ✒️
 
@@ -284,11 +268,7 @@ Descubra a arquitetura dos Amazon Web Services, onde os serviços se combinam pe
 
 - **This is My Architecture**: Uma série oficial de vídeos do YouTube pela AWS que apresenta soluções arquitetônicas inovadoras na AWS Cloud por clientes e parceiros. Cada episódio examina os elementos mais interessantes e tecnicamente criativos de cada arquitetura de nuvem. Assista à série 📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
-  - Por exemplo: [Nielsen - Processando 55TB de Dados por Dia com AWS Lambda](https://youtu.be/Jkx6kVbDpL4)
-
-    ![](./assets/this-is-my-architecture-sample.png)
-
-- **AWS - This is My Architecture Episódios Especiais:** Assista à série 📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr&si=jR0l2cuhwgRrVUlN)
+- **AWS - This is My Architecture Episódios Especiais:** Assista à playlist📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr&si=jR0l2cuhwgRrVUlN)
 
 - **AWS Well-Architected Framework:** Aprenda sobre as melhores práticas da AWS para construir infraestrutura segura, de alto desempenho, resiliente e eficiente para suas aplicações. Acesse o framework 📖 [**aqui**](https://aws.amazon.com/architecture/well-architected/)
 
@@ -297,23 +277,27 @@ Descubra a arquitetura dos Amazon Web Services, onde os serviços se combinam pe
 - **Whitepapers AWS:** Aprofunde-se nos serviços e soluções AWS com whitepapers técnicos que cobrem arquitetura, segurança, otimização de desempenho e muito mais. Encontre os whitepapers 📖 [**aqui**](https://aws.amazon.com/whitepapers/)
 
 ## Orientações Prescritivas AWS 📑
-- Recursos de especialistas em tecnologia AWS e parceiros da AWS para ajudar a acelerar a adoção e modernização da nuvem.
+
+- Recursos de especialistas em tecnologia AWS e parceiros da AWS para ajudar a acelerar a adoção e modernização da nuvem.  
 - Explore [**aqui**](https://aws.amazon.com/prescriptive-guidance)
 
 ## Tutoriais Práticos AWS 📗
-- Comece com tutoriais passo a passo para lançar sua primeira aplicação.
+
+- Comece com tutoriais passo a passo para lançar sua primeira aplicação.  
 - Explore [**aqui**](https://aws.amazon.com/getting-started/hands-on)
 
 ## Canal Oficial do YouTube AWS 📺
 
 Visite [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebservices)
 
-- AWS re:Invent 2023: https://youtu.be/UTRBVPvzt9w
-- AWS re:Invent 2022: https://youtu.be/RfvL_423a-I
-- AWS re:Invent 2021: https://youtu.be/8_Xs8Ik0h1w
+- AWS re:Invent 2025: Em Breve!!
+- AWS re:Invent 2024: [https://youtu.be/LY7m5LQliAo](https://youtu.be/LY7m5LQliAo)
+- AWS re:Invent 2023: [https://youtu.be/UTRBVPvzt9w](https://youtu.be/UTRBVPvzt9w)
+- AWS re:Invent 2022: [https://youtu.be/RfvL_423a-I](https://youtu.be/RfvL_423a-I)
+- AWS re:Invent 2021: [https://youtu.be/8_Xs8Ik0h1w](https://youtu.be/8_Xs8Ik0h1w)
 - ...e mais
 
-## O Que Vem a Seguir? ❔
+## O Que Vem a Seguir ❔
 
 - Continuarei mantendo este repositório e atualizando os recursos.
 - Fique atento para mais conteúdos valiosos, pois continuo adicionando os recursos e atualizações mais recentes.
@@ -323,5 +307,4 @@ Visite [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebse
 
 - Veja: [CONTRIBUINDO.MD](./CONTRIBUINDO.md)
 - Se achar este repositório útil, considere mostrar sua apreciação dando uma estrela ⭐. Obrigado! 💖
-- Procurando uma tarefa para trabalhar? Confira a lista de nossos [**bons primeiros problemas**](https://github.com/tungbq/AWS-LearningResource/labels/good%20first%20issue)
 - Sinta-se à vontade para abrir um novo problema se quiser solicitar mais conteúdo sobre recursos de aprendizado de serviços AWS.
