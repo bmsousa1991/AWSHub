@@ -293,12 +293,12 @@ Descubra a arquitetura dos Amazon Web Services, onde os serviços se combinam pe
 ## Orientações Prescritivas AWS 📑
 
 - Recursos de especialistas em tecnologia AWS e parceiros da AWS para ajudar a acelerar a adoção e modernização da nuvem.  
-  Explore [**aqui**](https://aws.amazon.com/prescriptive-guidance)
+- Explore [**aqui**](https://aws.amazon.com/prescriptive-guidance)
 
 ## Tutoriais Práticos AWS 📗
 
 - Comece com tutoriais passo a passo para lançar sua primeira aplicação.  
-  Explore [**aqui**](https://aws.amazon.com/getting-started/hands-on)
+- Explore [**aqui**](https://aws.amazon.com/getting-started/hands-on)
 
 ## Canal Oficial do YouTube AWS 📺
 
