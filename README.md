@@ -236,28 +236,28 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ## 📘 Cursos Gratuitos: Serviços AWS
 
-- **Talento Cloud do Grupo Boticário**  
-  Explore a plataforma gratuita para aprender sobre os serviços da AWS [Acesse aqui](https://aws-boticario.ontidwit.com/#/)
+- [**Talento Cloud do Grupo Boticário**]((https://aws-boticario.ontidwit.com/#/))  
+  Explore a plataforma gratuita para aprender sobre os serviços da AWS.
 
-- **AWS Academy**  
-  Uma iniciativa educacional da AWS para aprendizado gratuito [Acesse aqui](https://aws.amazon.com/pt/training/awsacademy/)
+- [**AWS Academy**](https://aws.amazon.com/pt/training/awsacademy/)  
+  Uma iniciativa educacional da AWS para aprendizado gratuito.
 
-- **Udemy**  
-  Acesse cursos gratuitos sobre AWS disponíveis na plataforma [Acesse aqui](https://www.udemy.com/pt/topic/amazon-aws/free/)
+- [**Udemy**](https://www.udemy.com/pt/topic/amazon-aws/free/)  
+  Acesse cursos gratuitos sobre AWS disponíveis na plataforma.
 
-- **AWS Cloud Complete Bootcamp Course**  
-  Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS [Assista aqui](https://youtu.be/zA8guDqfv40)
+- [**AWS Cloud Complete Bootcamp Course**](https://youtu.be/zA8guDqfv40)  
+  Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.
 
 ## 📄 Guias e Fichas de Consulta
 
-- **Digital Cloud Training**  
-  Fichas de consulta detalhadas sobre serviços AWS [Acesse aqui](https://digitalcloud.training/aws-cheat-sheets/)
+- [**Digital Cloud Training**](https://digitalcloud.training/aws-cheat-sheets/)
+  Fichas de consulta detalhadas sobre serviços AWS.
 
-- **TutorialsDojo**  
-  Recursos de aprendizado e fichas de consulta para AWS [Acesse aqui](https://tutorialsdojo.com/aws-cheat-sheets/)
+- [**TutorialsDojo**](https://tutorialsdojo.com/aws-cheat-sheets/)
+  Recursos de aprendizado e fichas de consulta para AWS.
 
-- **Whizlabs**  
-  Fichas de consulta para ajudar a reforçar conceitos sobre AWS [Acesse aqui](https://www.whizlabs.com/blog/aws-cheat-sheet/)
+- [**Whizlabs**](https://www.whizlabs.com/blog/aws-cheat-sheet/)
+  Fichas de consulta para ajudar a reforçar conceitos sobre AWS.
 
 ### Recursos de Aprendizado de Serviços AWS
 
