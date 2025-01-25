@@ -252,7 +252,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
   Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.  
   [Assista aqui](https://youtu.be/zA8guDqfv40)
 
-
 ## 📄 Guias e Fichas de Consulta
 
 - **Digital Cloud Training**  
@@ -266,7 +265,6 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 - **Whizlabs**  
   Fichas de consulta para ajudar a reforçar conceitos sobre AWS.  
   [Acesse aqui](https://www.whizlabs.com/blog/aws-cheat-sheet/)
-
 
 ### Recursos de Aprendizado de Serviços AWS
 
@@ -284,11 +282,7 @@ Descubra a arquitetura dos Amazon Web Services, onde os serviços se combinam pe
 
 - **This is My Architecture**: Uma série oficial de vídeos do YouTube pela AWS que apresenta soluções arquitetônicas inovadoras na AWS Cloud por clientes e parceiros. Cada episódio examina os elementos mais interessantes e tecnicamente criativos de cada arquitetura de nuvem. Assista à série 📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
-  - Por exemplo: [Nielsen - Processando 55TB de Dados por Dia com AWS Lambda](https://youtu.be/Jkx6kVbDpL4)
-
-    ![](./assets/this-is-my-architecture-sample.png)
-
-- **AWS - This is My Architecture Episódios Especiais:** Assista à série 📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr&si=jR0l2cuhwgRrVUlN)
+- **AWS - This is My Architecture Episódios Especiais:** Assista à playlist📺 [**aqui**](https://youtube.com/playlist?list=PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr&si=jR0l2cuhwgRrVUlN)
 
 - **AWS Well-Architected Framework:** Aprenda sobre as melhores práticas da AWS para construir infraestrutura segura, de alto desempenho, resiliente e eficiente para suas aplicações. Acesse o framework 📖 [**aqui**](https://aws.amazon.com/architecture/well-architected/)
 
@@ -297,20 +291,24 @@ Descubra a arquitetura dos Amazon Web Services, onde os serviços se combinam pe
 - **Whitepapers AWS:** Aprofunde-se nos serviços e soluções AWS com whitepapers técnicos que cobrem arquitetura, segurança, otimização de desempenho e muito mais. Encontre os whitepapers 📖 [**aqui**](https://aws.amazon.com/whitepapers/)
 
 ## Orientações Prescritivas AWS 📑
-- Recursos de especialistas em tecnologia AWS e parceiros da AWS para ajudar a acelerar a adoção e modernização da nuvem.
-- Explore [**aqui**](https://aws.amazon.com/prescriptive-guidance)
+
+- Recursos de especialistas em tecnologia AWS e parceiros da AWS para ajudar a acelerar a adoção e modernização da nuvem.  
+  Explore [**aqui**](https://aws.amazon.com/prescriptive-guidance)
 
 ## Tutoriais Práticos AWS 📗
-- Comece com tutoriais passo a passo para lançar sua primeira aplicação.
-- Explore [**aqui**](https://aws.amazon.com/getting-started/hands-on)
+
+- Comece com tutoriais passo a passo para lançar sua primeira aplicação.  
+  Explore [**aqui**](https://aws.amazon.com/getting-started/hands-on)
 
 ## Canal Oficial do YouTube AWS 📺
 
 Visite [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebservices)
 
-- AWS re:Invent 2023: https://youtu.be/UTRBVPvzt9w
-- AWS re:Invent 2022: https://youtu.be/RfvL_423a-I
-- AWS re:Invent 2021: https://youtu.be/8_Xs8Ik0h1w
+- AWS re:Invent 2025: Em Breve!!
+- AWS re:Invent 2024: [https://youtu.be/LY7m5LQliAo](https://youtu.be/LY7m5LQliAo)
+- AWS re:Invent 2023: [https://youtu.be/UTRBVPvzt9w](https://youtu.be/UTRBVPvzt9w)
+- AWS re:Invent 2022: [https://youtu.be/RfvL_423a-I](https://youtu.be/RfvL_423a-I)
+- AWS re:Invent 2021: [https://youtu.be/8_Xs8Ik0h1w](https://youtu.be/8_Xs8Ik0h1w)
 - ...e mais
 
 ## O Que Vem a Seguir? ❔
@@ -323,5 +321,4 @@ Visite [www.youtube.com/@amazonwebservices](https://www.youtube.com/@amazonwebse
 
 - Veja: [CONTRIBUINDO.MD](./CONTRIBUINDO.md)
 - Se achar este repositório útil, considere mostrar sua apreciação dando uma estrela ⭐. Obrigado! 💖
-- Procurando uma tarefa para trabalhar? Confira a lista de nossos [**bons primeiros problemas**](https://github.com/tungbq/AWS-LearningResource/labels/good%20first%20issue)
 - Sinta-se à vontade para abrir um novo problema se quiser solicitar mais conteúdo sobre recursos de aprendizado de serviços AWS.
