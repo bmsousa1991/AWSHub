@@ -43,4 +43,4 @@ Siga nosso plano de preparação para exames em quatro etapas no **AWS Skill Bui
 - [**AWS Escape Room**](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17373/aws-escape-room-for-exam-prep-aws-certified-cloud-practitioner-clf-c02): preparação para o exame AWS Certified Cloud Practitioner
 
 ### 4. Avalie sua preparação para o exame
-- Simulado oficial do **AWS Certified Cloud Practitioner**
+- Simulado oficial do [**AWS Certified Cloud Practitioner**](https://explore.skillbuilder.aws/learn/courses/16951/aws-certified-cloud-practitioner-simulado-oficial-clf-c02-portugues-brasil-aws-certified-cloud-practitioner-official-practice-exam-clf-c02-portuguese-brazil)
