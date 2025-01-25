@@ -50,14 +50,14 @@ Siga nosso plano de preparação para exames em quatro etapas no **AWS Skill Bui
 ### 🎓 **Cursos Gratuitos**
 
 #### **Português - Brasil**
-- [Jean Diogo](https://www.youtube.com/watch?v=CqtC5_sMd90&list=PLK2b5y9F1DqaTWBrcxKMdwChTOAOBiksx&ab_channel=JeanDiogo)  
+- [**Jean Diogo**](https://www.youtube.com/watch?v=CqtC5_sMd90&list=PLK2b5y9F1DqaTWBrcxKMdwChTOAOBiksx&ab_channel=JeanDiogo)  
   Playlist no YouTube com conteúdo detalhado para o exame AWS Cloud Practitioner.
 
-- [Canal da Cloud](https://www.youtube.com/watch?v=keHP-56Bifo&list=PLz3hnOImntAPoJZ2JAWtOzc34X1EI_ge7&ab_channel=CanaldaCloud)  
+- [**Canal da Cloud**](https://www.youtube.com/watch?v=keHP-56Bifo&list=PLz3hnOImntAPoJZ2JAWtOzc34X1EI_ge7&ab_channel=CanaldaCloud)  
   Aulas em português abordando conceitos fundamentais da certificação.
 
 #### **Inglês**
-- [freeCodeCamp.org](https://www.youtube.com/watch?v=NhDYbskXRgc&t=1s&ab_channel=freeCodeCamp.org)  
+- [**freeCodeCamp.org**](https://www.youtube.com/watch?v=NhDYbskXRgc&t=1s&ab_channel=freeCodeCamp.org)  
   Curso completo e gratuito para o AWS Cloud Practitioner, ideal para quem entende inglês.
 
 ---
@@ -65,11 +65,11 @@ Siga nosso plano de preparação para exames em quatro etapas no **AWS Skill Bui
 ### 💵 **Cursos Pagos**
 
 #### **Português - Brasil**
-- [Andre Iacono](https://www.udemy.com/course/certificacao-amazon-aws-cloud-practitioner-clf-c02/?couponCode=MT24125)  
+- [**Andre Iacono**](https://www.udemy.com/course/certificacao-amazon-aws-cloud-practitioner-clf-c02/?couponCode=MT24125)  
   Curso abrangente em português disponível na Udemy com cupom de desconto.
 
 #### **Inglês**
-- [Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=MT24125)  
+- [**Stephane Maarek**](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=MT24125)  
   Um dos cursos mais populares na Udemy para AWS Cloud Practitioner, ministrado por Stephane Maarek.
 
 ---
@@ -77,12 +77,12 @@ Siga nosso plano de preparação para exames em quatro etapas no **AWS Skill Bui
 ### 📝 **Simulados**
 
 #### **Português - Brasil**
-- [Simulado AWS Practitioner - PT-BR](https://www.udemy.com/course/aws-practitioner-em-portugues/?couponCode=MT24125)  
+- [**Simulado AWS Practitioner - PT-BR**](https://www.udemy.com/course/aws-practitioner-em-portugues/?couponCode=MT24125)  
   Simulados em português com questões baseadas no exame oficial.
 
-- [Simulados AWS Foundation - PT-BR](https://www.udemy.com/course/simulados-aws-cloud-practitioner-foundation-em-portugues/?couponCode=MT24125)  
+- [**Simulados AWS Foundation - PT-BR**](https://www.udemy.com/course/simulados-aws-cloud-practitioner-foundation-em-portugues/?couponCode=MT24125)  
   Teste seus conhecimentos com questões práticas e detalhadas.
 
 #### **Inglês**
-- [Practical Exams - EN](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/?couponCode=MT24125)  
+- [**Practical Exams - EN**](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/?couponCode=MT24125)  
   Conjunto de exames práticos em inglês para reforçar seu aprendizado.
