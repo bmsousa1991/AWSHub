@@ -236,28 +236,21 @@ Prepare-se gratuitamente para os exames de certificação AWS com os materiais o
 
 ## 📘 Cursos Gratuitos: Serviços AWS
 
-- [**Talento Cloud do Grupo Boticário**]((https://aws-boticario.ontidwit.com/#/))  
-  Explore a plataforma gratuita para aprender sobre os serviços da AWS.
+- [**Talento Cloud do Grupo Boticário**](https://aws-boticario.ontidwit.com/#/) Explore a plataforma gratuita para aprender sobre os serviços da AWS.
 
-- [**AWS Academy**](https://aws.amazon.com/pt/training/awsacademy/)  
-  Uma iniciativa educacional da AWS para aprendizado gratuito.
+- [**AWS Academy**](https://aws.amazon.com/pt/training/awsacademy/) Uma iniciativa educacional da AWS para aprendizado gratuito.
 
-- [**Udemy**](https://www.udemy.com/pt/topic/amazon-aws/free/)  
-  Acesse cursos gratuitos sobre AWS disponíveis na plataforma.
+- [**Udemy**](https://www.udemy.com/pt/topic/amazon-aws/free/) Acesse cursos gratuitos sobre AWS disponíveis na plataforma.
 
-- [**AWS Cloud Complete Bootcamp Course**](https://youtu.be/zA8guDqfv40)  
-  Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.
+- [**AWS Cloud Complete Bootcamp Course**](https://youtu.be/zA8guDqfv40) Curso gratuito no YouTube cobrindo conceitos fundamentais da AWS.
 
 ## 📄 Guias e Fichas de Consulta
 
-- [**Digital Cloud Training**](https://digitalcloud.training/aws-cheat-sheets/)
-  Fichas de consulta detalhadas sobre serviços AWS.
+- [**Digital Cloud Training**](https://digitalcloud.training/aws-cheat-sheets/) Fichas de consulta detalhadas sobre serviços AWS.
 
-- [**TutorialsDojo**](https://tutorialsdojo.com/aws-cheat-sheets/)
-  Recursos de aprendizado e fichas de consulta para AWS.
+- [**TutorialsDojo**](https://tutorialsdojo.com/aws-cheat-sheets/) Recursos de aprendizado e fichas de consulta para AWS.
 
-- [**Whizlabs**](https://www.whizlabs.com/blog/aws-cheat-sheet/)
-  Fichas de consulta para ajudar a reforçar conceitos sobre AWS.
+- [**Whizlabs**](https://www.whizlabs.com/blog/aws-cheat-sheet/) Fichas de consulta para ajudar a reforçar conceitos sobre AWS.
 
 ### Recursos de Aprendizado de Serviços AWS
 
